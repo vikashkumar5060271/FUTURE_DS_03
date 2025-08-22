@@ -1,0 +1,1001 @@
+timestamp,event_name,event_type,department,rating,feedback_comment,satisfaction_bucket,comment_length,word_count,sentiment_score,sentiment_label
+02-11-2024 04:18,AI Ethics in Industry,Guest Lecture,CSE,2,"AI Ethics in Industry (Guest Lecture) had issues with wifi, registration, air conditioning.",Low,91,13,0,Neutral
+07-09-2024 17:17,UX Research in the Wild,Guest Lecture,CHE,4,"UX Research in the Wild (Guest Lecture) was useful takeaways, good pace.",High,72,12,0.7003,Positive
+21-07-2025 04:46,Intro to Machine Learning,Workshop,CHE,5,"Intro to Machine Learning (Workshop) was clear slides, learnt a lot.",High,68,11,0.3818,Positive
+14-08-2025 23:33,Smart City Hack,Hackathon,BIO,2,"Smart City Hack (Hackathon) had issues with wifi, timing, seating.",Low,66,10,0.4019,Positive
+10-10-2024 23:06,Green Energy Futures,Seminar,CE,4,"Green Energy Futures (Seminar) was excellent speakers, supportive volunteers, good pace.",High,88,11,0.872,Positive
+23-05-2025 19:11,Leadership & Teams,Seminar,EEE,4,"Leadership & Teams (Seminar) was supportive volunteers, inspiring.",High,66,8,0.6124,Positive
+13-06-2025 20:57,24hr HealthTech Hack,Hackathon,CHE,4,"24hr HealthTech Hack (Hackathon) was interactive sessions, useful takeaways, great venue.",High,89,11,0.7906,Positive
+04-03-2025 21:41,InnovateX Tech Expo,Tech Fest,CE,4,"InnovateX Tech Expo (Tech Fest) was excellent speakers, learnt a lot, supportive volunteers.",High,92,13,0.7096,Positive
+17-08-2025 03:53,Product Management Myths,Guest Lecture,ME,4,"Product Management Myths (Guest Lecture) was great venue, learnt a lot, hands-on and practical.",High,95,14,0.6249,Positive
+15-04-2025 23:29,Cloud & DevOps Fair,Tech Fest,ME,2,"Cloud & DevOps Fair (Tech Fest) had issues with projector, registration, seating.",Low,81,12,0.3182,Positive
+05-02-2025 06:01,UX Research in the Wild,Guest Lecture,CHE,1,UX Research in the Wild (Guest Lecture) had issues with air conditioning.,Low,73,12,0,Neutral
+09-12-2024 03:08,ByteBlast Coding Games,Tech Fest,CSE,5,"ByteBlast Coding Games (Tech Fest) was good pace, hands-on and practical, excellent speakers.",High,93,13,0.765,Positive
+03-11-2024 21:20,Product Management Myths,Guest Lecture,CE,4,"Product Management Myths (Guest Lecture) was good pace, interactive sessions, inspiring.",High,88,11,0.6908,Positive
+16-06-2025 23:35,Cybersecurity Basics,Workshop,CHE,4,"Cybersecurity Basics (Workshop) was supportive volunteers, useful takeaways, good pace.",High,87,10,0.7906,Positive
+09-11-2024 03:22,Intro to Machine Learning,Workshop,CHE,5,"Intro to Machine Learning (Workshop) was excellent speakers, well organized, supportive volunteers.",High,99,12,0.7906,Positive
+06-03-2025 02:41,Space Tech & You,Guest Lecture,AE,2,Space Tech & You (Guest Lecture) had issues with venue.,Low,55,10,0,Neutral
+06-08-2025 04:19,Stagecraft Theatre,Cultural Fest,CHE,3,"Stagecraft Theatre (Cultural Fest) was slides were decent, okay overall.",Medium,72,10,0.2263,Positive
+11-11-2024 00:12,The Entrepreneur’s Journey,Guest Lecture,EEE,4,"The Entrepreneur’s Journey (Guest Lecture) was excellent speakers, hands-on and practical, good pace.",High,101,13,0.765,Positive
+08-05-2025 19:07,UX Research in the Wild,Guest Lecture,EEE,3,"UX Research in the Wild (Guest Lecture) was timing was manageable, average experience.",Medium,86,13,0,Neutral
+13-11-2024 02:01,Product Management Myths,Guest Lecture,CHE,4,"Product Management Myths (Guest Lecture) was very engaging, great venue.",High,72,10,0.7947,Positive
+31-08-2024 19:11,Rhythm & Beats Night,Cultural Fest,AE,3,"Rhythm & Beats Night (Cultural Fest) was could be more interactive, topics were fine.",Medium,85,14,0.2023,Positive
+01-10-2024 18:58,Careers in Data,Seminar,CE,5,"Careers in Data (Seminar) was learnt a lot, useful takeaways.",High,61,10,0.4404,Positive
+27-10-2024 03:42,24hr HealthTech Hack,Hackathon,CHE,3,"24hr HealthTech Hack (Hackathon) was slides were decent, average experience.",Medium,76,10,0,Neutral
+28-01-2025 23:54,Colours of India,Cultural Fest,EEE,4,"Colours of India (Cultural Fest) was learnt a lot, clear slides, supportive volunteers.",High,87,13,0.5859,Positive
+23-09-2024 22:13,Product Management Myths,Guest Lecture,BIO,4,"Product Management Myths (Guest Lecture) was excellent speakers, learnt a lot, interactive sessions.",High,100,13,0.5719,Positive
+11-07-2025 17:26,Dance Mania,Cultural Fest,CE,4,"Dance Mania (Cultural Fest) was well organized, excellent speakers.",High,67,9,0.7003,Positive
+12-01-2025 03:43,InnovateX Tech Expo,Tech Fest,MBA,5,"InnovateX Tech Expo (Tech Fest) was clear slides, learnt a lot.",High,63,11,0.3818,Positive
+27-11-2024 18:18,Figma for Beginners,Workshop,ME,4,"Figma for Beginners (Workshop) was learnt a lot, inspiring, good pace.",High,70,11,0.6908,Positive
+02-08-2025 03:53,Space Tech & You,Guest Lecture,MBA,4,"Space Tech & You (Guest Lecture) was good pace, inspiring, well organized.",High,74,12,0.7783,Positive
+28-11-2024 01:40,InnovateX Tech Expo,Tech Fest,IT,5,"InnovateX Tech Expo (Tech Fest) was excellent speakers, learnt a lot, interactive sessions.",High,91,13,0.5719,Positive
+06-04-2025 06:07,Power BI Essentials,Workshop,ME,4,"Power BI Essentials (Workshop) was inspiring, learnt a lot, excellent speakers.",High,79,11,0.7579,Positive
+15-11-2024 23:43,Rhythm & Beats Night,Cultural Fest,CSE,4,"Rhythm & Beats Night (Cultural Fest) was excellent speakers, learnt a lot.",High,74,12,0.5719,Positive
+04-03-2025 17:36,Smart City Hack,Hackathon,IT,3,"Smart City Hack (Hackathon) was okay overall, average experience.",Medium,65,9,0.5574,Positive
+03-06-2025 03:57,The Future of EVs,Seminar,EEE,3,"The Future of EVs (Seminar) was topics were fine, room was adequate.",Medium,68,12,0.4019,Positive
+21-09-2024 02:59,Smart City Hack,Hackathon,CE,3,"Smart City Hack (Hackathon) was could be more interactive, average experience.",Medium,78,11,0.4019,Positive
+24-04-2025 02:10,Rhythm & Beats Night,Cultural Fest,MBA,5,"Rhythm & Beats Night (Cultural Fest) was well organized, useful takeaways.",High,74,11,0.6124,Positive
+22-06-2025 18:55,Colours of India,Cultural Fest,CSE,5,"Colours of India (Cultural Fest) was very engaging, excellent speakers.",High,71,10,0.7698,Positive
+12-09-2024 02:17,Power BI Essentials,Workshop,ECE,4,"Power BI Essentials (Workshop) was useful takeaways, supportive volunteers.",High,75,9,0.6249,Positive
+22-12-2024 21:37,Campus Problem Solver,Hackathon,AE,5,"Campus Problem Solver (Hackathon) was hands-on and practical, learnt a lot, great venue.",High,88,13,0.34,Positive
+27-08-2024 00:51,Cybersecurity Basics,Workshop,EEE,2,"Cybersecurity Basics (Workshop) had issues with audio, food.",Low,60,8,0,Neutral
+28-10-2024 23:08,Rhythm & Beats Night,Cultural Fest,ECE,5,"Rhythm & Beats Night (Cultural Fest) was clear slides, hands-on and practical.",High,78,12,0.3818,Positive
+17-08-2025 21:51,ByteBlast Coding Games,Tech Fest,MBA,4,"ByteBlast Coding Games (Tech Fest) was very engaging, inspiring, clear slides.",High,78,11,0.8241,Positive
+23-01-2025 03:18,The Entrepreneur’s Journey,Guest Lecture,CSE,3,"The Entrepreneur’s Journey (Guest Lecture) was room was adequate, timing was manageable.",Medium,88,12,0.2263,Positive
+09-11-2024 21:30,Web Dev Bootcamp,Workshop,ECE,5,"Web Dev Bootcamp (Workshop) was supportive volunteers, clear slides.",High,68,9,0.5859,Positive
+05-01-2025 01:43,Colours of India,Cultural Fest,MBA,5,"Colours of India (Cultural Fest) was interactive sessions, supportive volunteers.",High,81,10,0.296,Positive
+09-02-2025 05:20,Trends in 5G,Seminar,ECE,5,"Trends in 5G (Seminar) was hands-on and practical, well organized, interactive sessions.",High,88,12,0.2732,Positive
+01-06-2025 04:39,Product Management Myths,Guest Lecture,ME,3,"Product Management Myths (Guest Lecture) was room was adequate, topics were fine.",Medium,81,12,0.4019,Positive
+28-05-2025 18:05,Rhythm & Beats Night,Cultural Fest,ECE,4,"Rhythm & Beats Night (Cultural Fest) was supportive volunteers, very engaging.",High,78,11,0.5984,Positive
+12-09-2024 21:35,Leadership & Teams,Seminar,CHE,4,"Leadership & Teams (Seminar) was good pace, very engaging.",High,58,9,0.6801,Positive
+20-02-2025 05:47,FutureTech Showcase,Tech Fest,CE,4,"FutureTech Showcase (Tech Fest) was interactive sessions, excellent speakers.",High,77,9,0.5719,Positive
+21-03-2025 17:23,Campus Problem Solver,Hackathon,ME,4,"Campus Problem Solver (Hackathon) was very engaging, supportive volunteers.",High,75,9,0.3551,Positive
+16-08-2025 18:36,Product Management Myths,Guest Lecture,IT,5,"Product Management Myths (Guest Lecture) was hands-on and practical, very engaging.",High,83,11,0.4005,Positive
+26-01-2025 06:07,Campus AI Day,Tech Fest,CE,4,"Campus AI Day (Tech Fest) was inspiring, great venue.",High,53,9,0.7845,Positive
+14-03-2025 22:29,Intro to Machine Learning,Workshop,CSE,3,"Intro to Machine Learning (Workshop) was room was adequate, average experience.",Medium,79,11,0.2263,Positive
+05-09-2024 19:08,FutureTech Showcase,Tech Fest,MBA,5,"FutureTech Showcase (Tech Fest) was interactive sessions, clear slides, great venue.",High,84,11,0.7717,Positive
+17-10-2024 02:39,Green Energy Futures,Seminar,AE,3,"Green Energy Futures (Seminar) was could be more interactive, okay overall.",Medium,75,11,0.507,Positive
+08-03-2025 02:24,Design Thinking in Practice,Seminar,MBA,5,"Design Thinking in Practice (Seminar) was useful takeaways, clear slides, excellent speakers.",High,93,12,0.8481,Positive
+09-08-2025 04:59,Trends in 5G,Seminar,IT,5,"Trends in 5G (Seminar) was clear slides, supportive volunteers.",High,63,9,0.5859,Positive
+07-07-2025 22:54,UX Research in the Wild,Guest Lecture,CE,5,"UX Research in the Wild (Guest Lecture) was good pace, excellent speakers, great venue.",High,87,14,0.8934,Positive
+17-03-2025 04:30,IoT & Robotics Arena,Tech Fest,EEE,4,"IoT & Robotics Arena (Tech Fest) was interactive sessions, good pace, great venue.",High,82,13,0.7906,Positive
+04-07-2025 02:31,Colours of India,Cultural Fest,CE,4,"Colours of India (Cultural Fest) was interactive sessions, good pace, very engaging.",High,84,12,0.6801,Positive
+15-06-2025 02:53,Campus Problem Solver,Hackathon,CSE,4,"Campus Problem Solver (Hackathon) was hands-on and practical, learnt a lot, good pace.",High,86,13,0.0516,Positive
+10-12-2024 01:42,The Future of EVs,Seminar,BIO,3,"The Future of EVs (Seminar) was topics were fine, room was adequate.",Medium,68,12,0.4019,Positive
+09-02-2025 19:04,Startup Funding 101,Guest Lecture,ECE,5,"Startup Funding 101 (Guest Lecture) was clear slides, interactive sessions, useful takeaways.",High,93,12,0.6705,Positive
+03-09-2024 17:27,Cybersecurity Basics,Workshop,EEE,4,"Cybersecurity Basics (Workshop) was learnt a lot, very engaging.",High,64,9,0.4005,Positive
+30-11-2024 04:56,Campus Problem Solver,Hackathon,ECE,5,"Campus Problem Solver (Hackathon) was good pace, interactive sessions, useful takeaways.",High,88,11,0.4767,Positive
+24-07-2025 04:12,Sustainability Hack Night,Hackathon,IT,2,Sustainability Hack Night (Hackathon) had issues with seating.,Low,62,8,0,Neutral
+15-05-2025 00:15,Campus AI Day,Tech Fest,CE,1,Campus AI Day (Tech Fest) had issues with projector.,Low,52,9,0,Neutral
+05-06-2025 02:32,Colours of India,Cultural Fest,ECE,4,"Colours of India (Cultural Fest) was very engaging, inspiring, clear slides.",High,76,11,0.8241,Positive
+12-11-2024 05:07,Campus Problem Solver,Hackathon,CHE,2,"Campus Problem Solver (Hackathon) had issues with too advanced, too basic.",Low,74,11,-0.1779,Negative
+11-01-2025 06:01,Sustainability Hack Night,Hackathon,EEE,1,Sustainability Hack Night (Hackathon) had issues with air conditioning.,Low,71,9,0,Neutral
+20-12-2024 21:33,Fusion Music Evening,Cultural Fest,CE,4,"Fusion Music Evening (Cultural Fest) was inspiring, excellent speakers, hands-on and practical.",High,95,12,0.7579,Positive
+07-03-2025 04:21,Leadership & Teams,Seminar,ECE,5,"Leadership & Teams (Seminar) was very engaging, learnt a lot.",High,61,10,0.4005,Positive
+17-04-2025 23:15,Startup Funding 101,Guest Lecture,ECE,4,"Startup Funding 101 (Guest Lecture) was good pace, great venue, clear slides.",High,77,12,0.8625,Positive
+05-03-2025 00:12,Power BI Essentials,Workshop,IT,1,"Power BI Essentials (Workshop) had issues with projector, timing, crowd.",Low,72,10,0,Neutral
+25-05-2025 04:59,Careers in Data,Seminar,IT,3,"Careers in Data (Seminar) was slides were decent, topics were fine.",Medium,67,11,0.2023,Positive
+27-04-2025 17:36,Dance Mania,Cultural Fest,CE,5,"Dance Mania (Cultural Fest) was learnt a lot, hands-on and practical, good pace.",High,80,13,0.4404,Positive
+18-04-2025 19:51,Design Thinking in Practice,Seminar,IT,3,"Design Thinking in Practice (Seminar) was room was adequate, average experience.",Medium,80,11,0.2263,Positive
+29-03-2025 20:07,Rhythm & Beats Night,Cultural Fest,IT,5,"Rhythm & Beats Night (Cultural Fest) was excellent speakers, interactive sessions.",High,82,11,0.5719,Positive
+11-04-2025 22:33,Smart City Hack,Hackathon,CSE,5,"Smart City Hack (Hackathon) was good pace, great venue, learnt a lot.",High,69,12,0.8658,Positive
+25-05-2025 17:34,FinTech Innovation Sprint,Hackathon,IT,4,"FinTech Innovation Sprint (Hackathon) was excellent speakers, inspiring, well organized.",High,88,10,0.8807,Positive
+02-12-2024 17:51,Cybersecurity Basics,Workshop,ECE,4,"Cybersecurity Basics (Workshop) was well organized, learnt a lot.",High,65,9,0.2732,Positive
+12-12-2024 00:56,Intro to Machine Learning,Workshop,ME,4,"Intro to Machine Learning (Workshop) was interactive sessions, excellent speakers, useful takeaways.",High,100,12,0.765,Positive
+17-10-2024 02:13,Careers in Data,Seminar,ME,4,"Careers in Data (Seminar) was very engaging, hands-on and practical.",High,68,10,0.4005,Positive
+22-06-2025 05:05,Leadership & Teams,Seminar,IT,4,"Leadership & Teams (Seminar) was supportive volunteers, learnt a lot, excellent speakers.",High,89,12,0.7096,Positive
+08-06-2025 05:14,Startup Funding 101,Guest Lecture,ECE,5,"Startup Funding 101 (Guest Lecture) was interactive sessions, useful takeaways, excellent speakers.",High,99,12,0.765,Positive
+19-07-2025 22:12,Leadership & Teams,Seminar,IT,2,"Leadership & Teams (Seminar) had issues with audio, food, too advanced.",Low,71,11,0.25,Positive
+14-07-2025 00:57,Sustainability Hack Night,Hackathon,ECE,3,"Sustainability Hack Night (Hackathon) was topics were fine, could be more interactive.",Medium,86,12,0.2023,Positive
+18-04-2025 00:04,Power BI Essentials,Workshop,ME,4,"Power BI Essentials (Workshop) was useful takeaways, clear slides, inspiring.",High,77,10,0.8074,Positive
+12-01-2025 00:27,The Entrepreneur’s Journey,Guest Lecture,EEE,1,"The Entrepreneur’s Journey (Guest Lecture) had issues with registration, food.",Low,78,10,0,Neutral
+04-02-2025 19:43,Campus Problem Solver,Hackathon,AE,4,"Campus Problem Solver (Hackathon) was great venue, well organized, inspiring.",High,77,10,0.743,Positive
+02-06-2025 17:45,Web Dev Bootcamp,Workshop,EEE,5,"Web Dev Bootcamp (Workshop) was hands-on and practical, useful takeaways, supportive volunteers.",High,96,12,0.6249,Positive
+30-04-2025 02:00,Python for Data Science,Workshop,CE,3,"Python for Data Science (Workshop) was room was adequate, topics were fine.",Medium,75,12,0.4019,Positive
+19-01-2025 20:37,Cybersecurity Basics,Workshop,BIO,4,"Cybersecurity Basics (Workshop) was inspiring, well organized, excellent speakers.",High,82,9,0.8225,Positive
+27-02-2025 00:47,Startup Funding 101,Guest Lecture,EEE,3,"Startup Funding 101 (Guest Lecture) was room was adequate, timing was manageable.",Medium,81,12,0.2263,Positive
+25-01-2025 21:26,Stagecraft Theatre,Cultural Fest,IT,5,"Stagecraft Theatre (Cultural Fest) was great venue, inspiring, hands-on and practical.",High,86,11,0.7845,Positive
+28-11-2024 20:59,IoT & Robotics Arena,Tech Fest,CE,4,"IoT & Robotics Arena (Tech Fest) was excellent speakers, clear slides, very engaging.",High,85,13,0.8399,Positive
+16-12-2024 22:23,FinTech Innovation Sprint,Hackathon,AE,4,"FinTech Innovation Sprint (Hackathon) was excellent speakers, learnt a lot, hands-on and practical.",High,99,13,0.743,Positive
+19-09-2024 01:30,Trends in 5G,Seminar,CHE,4,"Trends in 5G (Seminar) was hands-on and practical, well organized.",High,66,10,0.2732,Positive
+15-01-2025 00:42,Startup Funding 101,Guest Lecture,BIO,5,"Startup Funding 101 (Guest Lecture) was well organized, useful takeaways.",High,73,10,0.6124,Positive
+19-10-2024 18:37,FinTech Innovation Sprint,Hackathon,ME,5,"FinTech Innovation Sprint (Hackathon) was hands-on and practical, inspiring.",High,76,9,0.6597,Positive
+18-09-2024 19:21,24hr HealthTech Hack,Hackathon,AE,3,"24hr HealthTech Hack (Hackathon) was room was adequate, slides were decent.",Medium,75,11,0.2263,Positive
+24-03-2025 02:50,Stagecraft Theatre,Cultural Fest,ECE,5,"Stagecraft Theatre (Cultural Fest) was excellent speakers, clear slides.",High,72,9,0.743,Positive
+22-01-2025 02:39,Colours of India,Cultural Fest,CHE,2,"Colours of India (Cultural Fest) had issues with too basic, projector.",Low,70,11,0,Neutral
+12-10-2024 05:25,Leadership & Teams,Seminar,AE,2,Leadership & Teams (Seminar) had issues with crowd.,Low,51,8,0,Neutral
+19-11-2024 01:16,Startup Funding 101,Guest Lecture,EEE,4,"Startup Funding 101 (Guest Lecture) was very engaging, learnt a lot.",High,68,11,0.4005,Positive
+18-01-2025 17:26,Python for Data Science,Workshop,IT,4,"Python for Data Science (Workshop) was supportive volunteers, useful takeaways, inspiring.",High,90,11,0.7845,Positive
+05-01-2025 06:02,Design Thinking in Practice,Seminar,EEE,5,"Design Thinking in Practice (Seminar) was excellent speakers, interactive sessions, learnt a lot.",High,97,13,0.5719,Positive
+19-07-2025 20:10,The Entrepreneur’s Journey,Guest Lecture,CE,5,"The Entrepreneur’s Journey (Guest Lecture) was excellent speakers, clear slides, learnt a lot.",High,94,13,0.743,Positive
+27-01-2025 02:59,Green Energy Futures,Seminar,ECE,3,"Green Energy Futures (Seminar) was okay overall, average experience.",Medium,68,9,0.4588,Positive
+15-08-2025 23:29,Stagecraft Theatre,Cultural Fest,BIO,4,"Stagecraft Theatre (Cultural Fest) was inspiring, hands-on and practical.",High,73,9,0.4215,Positive
+11-09-2024 23:59,Dance Mania,Cultural Fest,BIO,1,"Dance Mania (Cultural Fest) had issues with food, crowd.",Low,56,9,0,Neutral
+18-12-2024 04:05,Leadership & Teams,Seminar,EEE,3,"Leadership & Teams (Seminar) was okay overall, slides were decent.",Medium,66,10,0.2263,Positive
+20-11-2024 00:45,Dance Mania,Cultural Fest,CSE,2,"Dance Mania (Cultural Fest) had issues with wifi, crowd, timing.",Low,64,10,0,Neutral
+03-04-2025 04:04,Space Tech & You,Guest Lecture,EEE,3,"Space Tech & You (Guest Lecture) was average experience, timing was manageable.",Medium,79,12,0,Neutral
+08-02-2025 22:54,24hr HealthTech Hack,Hackathon,BIO,3,"24hr HealthTech Hack (Hackathon) was could be more interactive, topics were fine.",Medium,81,12,0.2023,Positive
+28-07-2025 00:04,ByteBlast Coding Games,Tech Fest,MBA,5,"ByteBlast Coding Games (Tech Fest) was supportive volunteers, inspiring, hands-on and practical.",High,96,12,0.6124,Positive
+29-12-2024 22:19,Rhythm & Beats Night,Cultural Fest,BIO,3,"Rhythm & Beats Night (Cultural Fest) was okay overall, could be more interactive.",Medium,81,13,0.2263,Positive
+15-04-2025 23:15,Campus Problem Solver,Hackathon,CSE,3,"Campus Problem Solver (Hackathon) was room was adequate, timing was manageable.",Medium,79,11,-0.2023,Negative
+04-12-2024 21:47,Figma for Beginners,Workshop,MBA,4,"Figma for Beginners (Workshop) was interactive sessions, inspiring, well organized.",High,83,10,0.5994,Positive
+23-12-2024 04:22,Web Dev Bootcamp,Workshop,BIO,5,"Web Dev Bootcamp (Workshop) was excellent speakers, well organized, useful takeaways.",High,85,11,0.8271,Positive
+15-04-2025 18:53,Leadership & Teams,Seminar,CSE,4,"Leadership & Teams (Seminar) was excellent speakers, learnt a lot, supportive volunteers.",High,89,12,0.7096,Positive
+25-12-2024 00:47,Power BI Essentials,Workshop,EEE,5,"Power BI Essentials (Workshop) was good pace, inspiring, interactive sessions.",High,78,10,0.6908,Positive
+22-03-2025 23:11,Power BI Essentials,Workshop,CE,5,"Power BI Essentials (Workshop) was excellent speakers, hands-on and practical.",High,78,10,0.5719,Positive
+15-06-2025 03:43,Stagecraft Theatre,Cultural Fest,CSE,4,"Stagecraft Theatre (Cultural Fest) was supportive volunteers, hands-on and practical, useful takeaways.",High,103,12,0.6249,Positive
+27-05-2025 23:41,Power BI Essentials,Workshop,CHE,4,"Power BI Essentials (Workshop) was great venue, supportive volunteers, clear slides.",High,84,11,0.836,Positive
+13-09-2024 22:59,Green Energy Futures,Seminar,CE,2,"Green Energy Futures (Seminar) had issues with venue, registration, projector.",Low,78,10,0.2732,Positive
+08-11-2024 00:14,Sustainability Hack Night,Hackathon,IT,3,"Sustainability Hack Night (Hackathon) was room was adequate, slides were decent.",Medium,80,11,0.2263,Positive
+13-10-2024 02:10,Figma for Beginners,Workshop,AE,2,"Figma for Beginners (Workshop) had issues with food, too basic.",Low,63,10,0,Neutral
+20-04-2025 05:28,24hr HealthTech Hack,Hackathon,ME,5,"24hr HealthTech Hack (Hackathon) was interactive sessions, very engaging, excellent speakers.",High,93,11,0.7698,Positive
+07-02-2025 04:06,Leadership & Teams,Seminar,IT,3,"Leadership & Teams (Seminar) was room was adequate, okay overall.",Medium,65,10,0.4215,Positive
+26-09-2024 20:52,Fusion Music Evening,Cultural Fest,MBA,5,"Fusion Music Evening (Cultural Fest) was clear slides, well organized, useful takeaways.",High,88,12,0.765,Positive
+13-07-2025 05:07,Product Management Myths,Guest Lecture,CE,5,"Product Management Myths (Guest Lecture) was good pace, excellent speakers.",High,75,10,0.765,Positive
+05-09-2024 17:32,Campus AI Day,Tech Fest,ME,3,"Campus AI Day (Tech Fest) was room was adequate, could be more interactive.",Medium,75,13,0.2263,Positive
+04-11-2024 20:45,FutureTech Showcase,Tech Fest,MBA,3,"FutureTech Showcase (Tech Fest) was could be more interactive, topics were fine.",Medium,80,12,0.2023,Positive
+02-10-2024 03:07,Campus Problem Solver,Hackathon,ME,2,Campus Problem Solver (Hackathon) had issues with seating.,Low,58,8,-0.4019,Negative
+19-12-2024 00:52,Campus Problem Solver,Hackathon,CE,2,"Campus Problem Solver (Hackathon) had issues with crowd, seating.",Low,65,9,-0.4019,Negative
+04-08-2025 01:22,The Future of EVs,Seminar,EEE,5,"The Future of EVs (Seminar) was inspiring, hands-on and practical.",High,66,10,0.4215,Positive
+15-07-2025 23:56,Campus AI Day,Tech Fest,MBA,3,"Campus AI Day (Tech Fest) was timing was manageable, could be more interactive.",Medium,79,13,0,Neutral
+15-10-2024 20:36,The Future of EVs,Seminar,EEE,4,"The Future of EVs (Seminar) was good pace, inspiring.",High,53,9,0.6908,Positive
+20-01-2025 18:05,Stagecraft Theatre,Cultural Fest,AE,3,"Stagecraft Theatre (Cultural Fest) was could be more interactive, room was adequate.",Medium,84,12,0.2263,Positive
+09-08-2025 05:59,Space Tech & You,Guest Lecture,EEE,3,"Space Tech & You (Guest Lecture) was okay overall, timing was manageable.",Medium,73,12,0.2263,Positive
+13-12-2024 03:24,Cloud & DevOps Fair,Tech Fest,BIO,4,"Cloud & DevOps Fair (Tech Fest) was learnt a lot, useful takeaways, great venue.",High,80,14,0.8519,Positive
+11-09-2024 22:02,Stagecraft Theatre,Cultural Fest,ME,4,"Stagecraft Theatre (Cultural Fest) was interactive sessions, supportive volunteers.",High,83,9,0.296,Positive
+07-10-2024 21:32,24hr HealthTech Hack,Hackathon,AE,2,"24hr HealthTech Hack (Hackathon) had issues with projector, seating.",Low,68,9,0,Neutral
+25-05-2025 22:45,Space Tech & You,Guest Lecture,ME,1,Space Tech & You (Guest Lecture) had issues with seating.,Low,57,10,0,Neutral
+20-10-2024 00:16,Stagecraft Theatre,Cultural Fest,ME,4,"Stagecraft Theatre (Cultural Fest) was inspiring, hands-on and practical, great venue.",High,86,11,0.7845,Positive
+25-02-2025 19:02,Intro to Machine Learning,Workshop,IT,3,"Intro to Machine Learning (Workshop) was slides were decent, timing was manageable.",Medium,83,12,0,Neutral
+02-08-2025 04:55,24hr HealthTech Hack,Hackathon,EEE,2,"24hr HealthTech Hack (Hackathon) had issues with food, too basic, audio.",Low,72,11,0,Neutral
+20-04-2025 17:51,Leadership & Teams,Seminar,IT,5,"Leadership & Teams (Seminar) was excellent speakers, interactive sessions, learnt a lot.",High,88,12,0.5719,Positive
+14-07-2025 01:10,Stagecraft Theatre,Cultural Fest,AE,5,"Stagecraft Theatre (Cultural Fest) was interactive sessions, excellent speakers.",High,80,9,0.5719,Positive
+14-09-2024 17:31,Product Management Myths,Guest Lecture,IT,2,Product Management Myths (Guest Lecture) had issues with seating.,Low,65,9,0,Neutral
+09-03-2025 00:35,24hr HealthTech Hack,Hackathon,ECE,5,"24hr HealthTech Hack (Hackathon) was clear slides, very engaging.",High,65,9,0.6478,Positive
+23-07-2025 19:05,UX Research in the Wild,Guest Lecture,CHE,4,"UX Research in the Wild (Guest Lecture) was useful takeaways, very engaging, good pace.",High,87,14,0.8304,Positive
+10-08-2025 22:25,Campus Problem Solver,Hackathon,IT,3,"Campus Problem Solver (Hackathon) was could be more interactive, okay overall.",Medium,78,11,-0.1335,Negative
+27-02-2025 02:09,Sustainability Hack Night,Hackathon,CE,2,"Sustainability Hack Night (Hackathon) had issues with food, air conditioning.",Low,77,10,0,Neutral
+24-10-2024 00:17,Product Management Myths,Guest Lecture,CSE,1,"Product Management Myths (Guest Lecture) had issues with wifi, registration.",Low,76,10,0,Neutral
+08-02-2025 20:20,Startup Funding 101,Guest Lecture,AE,3,"Startup Funding 101 (Guest Lecture) was okay overall, slides were decent.",Medium,73,11,0.2263,Positive
+19-12-2024 23:01,Colours of India,Cultural Fest,ECE,5,"Colours of India (Cultural Fest) was useful takeaways, learnt a lot.",High,68,11,0.4404,Positive
+29-12-2024 05:23,Figma for Beginners,Workshop,CSE,5,"Figma for Beginners (Workshop) was very engaging, supportive volunteers, clear slides.",High,86,11,0.7764,Positive
+22-12-2024 02:32,IoT & Robotics Arena,Tech Fest,CSE,5,"IoT & Robotics Arena (Tech Fest) was well organized, great venue.",High,65,11,0.7351,Positive
+18-05-2025 18:59,ByteBlast Coding Games,Tech Fest,EEE,5,"ByteBlast Coding Games (Tech Fest) was very engaging, good pace.",High,64,10,0.707,Positive
+12-05-2025 02:18,Campus AI Day,Tech Fest,BIO,3,"Campus AI Day (Tech Fest) was slides were decent, could be more interactive.",Medium,76,13,0,Neutral
+15-05-2025 21:41,Campus Problem Solver,Hackathon,CE,5,"Campus Problem Solver (Hackathon) was supportive volunteers, interactive sessions.",High,82,9,-0.128,Negative
+01-05-2025 05:10,AI Ethics in Industry,Guest Lecture,CSE,4,"AI Ethics in Industry (Guest Lecture) was good pace, supportive volunteers, excellent speakers.",High,95,13,0.8316,Positive
+25-10-2024 21:51,24hr HealthTech Hack,Hackathon,ECE,4,"24hr HealthTech Hack (Hackathon) was useful takeaways, very engaging, excellent speakers.",High,89,11,0.8615,Positive
+20-05-2025 21:41,The Entrepreneur’s Journey,Guest Lecture,CHE,2,"The Entrepreneur’s Journey (Guest Lecture) had issues with audio, venue, crowd.",Low,79,11,0,Neutral
+24-07-2025 04:08,Dance Mania,Cultural Fest,IT,5,"Dance Mania (Cultural Fest) was supportive volunteers, excellent speakers.",High,74,9,0.7096,Positive
+16-12-2024 23:33,Art & Craft Pop-up,Cultural Fest,CE,3,"Art & Craft Pop-up (Cultural Fest) was topics were fine, slides were decent.",Medium,76,13,0.2023,Positive
+30-01-2025 03:28,Sustainability Hack Night,Hackathon,IT,2,"Sustainability Hack Night (Hackathon) had issues with food, audio, venue.",Low,73,10,0,Neutral
+08-10-2024 23:18,Green Energy Futures,Seminar,BIO,5,"Green Energy Futures (Seminar) was excellent speakers, supportive volunteers.",High,77,9,0.7906,Positive
+19-06-2025 01:47,UX Research in the Wild,Guest Lecture,MBA,4,"UX Research in the Wild (Guest Lecture) was clear slides, well organized.",High,73,12,0.5719,Positive
+17-09-2024 21:50,Design Thinking in Practice,Seminar,ECE,4,"Design Thinking in Practice (Seminar) was great venue, interactive sessions, good pace.",High,87,12,0.7906,Positive
+25-04-2025 21:06,Careers in Data,Seminar,ECE,4,"Careers in Data (Seminar) was very engaging, interactive sessions.",High,66,9,0.4005,Positive
+16-12-2024 05:39,FutureTech Showcase,Tech Fest,CHE,4,"FutureTech Showcase (Tech Fest) was excellent speakers, hands-on and practical, useful takeaways.",High,97,12,0.765,Positive
+12-08-2025 21:13,Dance Mania,Cultural Fest,AE,5,"Dance Mania (Cultural Fest) was useful takeaways, interactive sessions.",High,71,9,0.4404,Positive
+04-11-2024 02:54,Web Dev Bootcamp,Workshop,EEE,4,"Web Dev Bootcamp (Workshop) was great venue, well organized, very engaging.",High,75,11,0.8357,Positive
+10-12-2024 23:38,24hr HealthTech Hack,Hackathon,ME,5,"24hr HealthTech Hack (Hackathon) was excellent speakers, clear slides.",High,70,9,0.743,Positive
+23-06-2025 19:08,FinTech Innovation Sprint,Hackathon,ME,4,"FinTech Innovation Sprint (Hackathon) was hands-on and practical, great venue, useful takeaways.",High,96,12,0.8625,Positive
+09-01-2025 00:54,ByteBlast Coding Games,Tech Fest,ME,2,"ByteBlast Coding Games (Tech Fest) had issues with timing, air conditioning, food.",Low,82,12,0,Neutral
+08-01-2025 21:00,Sustainability Hack Night,Hackathon,AE,3,"Sustainability Hack Night (Hackathon) was topics were fine, slides were decent.",Medium,79,11,0.2023,Positive
+29-04-2025 01:54,Rhythm & Beats Night,Cultural Fest,MBA,5,"Rhythm & Beats Night (Cultural Fest) was excellent speakers, hands-on and practical, useful takeaways.",High,102,14,0.765,Positive
+04-12-2024 21:25,Trends in 5G,Seminar,CE,4,"Trends in 5G (Seminar) was useful takeaways, well organized, interactive sessions.",High,82,11,0.6124,Positive
+30-03-2025 19:20,Web Dev Bootcamp,Workshop,EEE,5,"Web Dev Bootcamp (Workshop) was excellent speakers, well organized, inspiring.",High,78,10,0.8225,Positive
+02-04-2025 17:41,Campus Problem Solver,Hackathon,CE,4,"Campus Problem Solver (Hackathon) was excellent speakers, good pace, well organized.",High,84,11,0.7184,Positive
+17-01-2025 18:37,FutureTech Showcase,Tech Fest,AE,4,"FutureTech Showcase (Tech Fest) was useful takeaways, good pace, interactive sessions.",High,86,11,0.7003,Positive
+02-04-2025 18:27,FutureTech Showcase,Tech Fest,ME,4,"FutureTech Showcase (Tech Fest) was supportive volunteers, great venue, excellent speakers.",High,91,11,0.875,Positive
+12-03-2025 21:59,Campus Problem Solver,Hackathon,IT,3,"Campus Problem Solver (Hackathon) was timing was manageable, okay overall.",Medium,74,10,-0.2023,Negative
+01-10-2024 01:52,Green Energy Futures,Seminar,MBA,3,"Green Energy Futures (Seminar) was slides were decent, average experience.",Medium,74,10,0.2732,Positive
+18-07-2025 19:27,Cloud & DevOps Fair,Tech Fest,CHE,5,"Cloud & DevOps Fair (Tech Fest) was great venue, supportive volunteers.",High,71,11,0.8225,Positive
+09-11-2024 06:00,ByteBlast Coding Games,Tech Fest,EEE,4,"ByteBlast Coding Games (Tech Fest) was very engaging, useful takeaways.",High,71,10,0.707,Positive
+09-04-2025 04:11,AI Ethics in Industry,Guest Lecture,ME,4,"AI Ethics in Industry (Guest Lecture) was inspiring, useful takeaways, interactive sessions.",High,92,12,0.6908,Positive
+08-11-2024 00:16,Art & Craft Pop-up,Cultural Fest,AE,1,"Art & Craft Pop-up (Cultural Fest) had issues with air conditioning, audio.",Low,75,12,0,Neutral
+08-05-2025 18:31,Sustainability Hack Night,Hackathon,EEE,4,"Sustainability Hack Night (Hackathon) was useful takeaways, well organized, great venue.",High,88,11,0.8442,Positive
+01-10-2024 04:07,Sustainability Hack Night,Hackathon,CSE,4,"Sustainability Hack Night (Hackathon) was great venue, hands-on and practical.",High,78,10,0.6249,Positive
+02-06-2025 05:59,Cloud & DevOps Fair,Tech Fest,AE,2,"Cloud & DevOps Fair (Tech Fest) had issues with venue, too basic, crowd.",Low,72,13,0.3182,Positive
+23-04-2025 01:21,Campus AI Day,Tech Fest,AE,5,"Campus AI Day (Tech Fest) was great venue, useful takeaways.",High,60,10,0.7906,Positive
+05-10-2024 01:53,Campus AI Day,Tech Fest,ECE,3,"Campus AI Day (Tech Fest) was slides were decent, could be more interactive.",Medium,76,13,0,Neutral
+30-06-2025 19:35,Python for Data Science,Workshop,CE,4,"Python for Data Science (Workshop) was inspiring, clear slides, interactive sessions.",High,85,11,0.6597,Positive
+24-06-2025 18:02,Careers in Data,Seminar,IT,2,"Careers in Data (Seminar) had issues with audio, air conditioning.",Low,66,10,0,Neutral
+04-06-2025 03:36,UX Research in the Wild,Guest Lecture,MBA,5,"UX Research in the Wild (Guest Lecture) was great venue, excellent speakers.",High,76,12,0.8316,Positive
+17-06-2025 03:21,Careers in Data,Seminar,AE,4,"Careers in Data (Seminar) was great venue, excellent speakers.",High,62,9,0.8316,Positive
+28-01-2025 01:36,Careers in Data,Seminar,IT,4,"Careers in Data (Seminar) was useful takeaways, excellent speakers.",High,67,9,0.765,Positive
+27-03-2025 01:35,Product Management Myths,Guest Lecture,ME,4,"Product Management Myths (Guest Lecture) was interactive sessions, supportive volunteers.",High,89,10,0.296,Positive
+27-04-2025 20:26,FutureTech Showcase,Tech Fest,EEE,4,"FutureTech Showcase (Tech Fest) was learnt a lot, great venue.",High,62,10,0.6249,Positive
+26-05-2025 05:08,Intro to Machine Learning,Workshop,ECE,1,"Intro to Machine Learning (Workshop) had issues with food, too advanced.",Low,72,11,0.25,Positive
+08-11-2024 19:23,Rhythm & Beats Night,Cultural Fest,MBA,4,"Rhythm & Beats Night (Cultural Fest) was useful takeaways, good pace.",High,69,11,0.7003,Positive
+04-08-2025 04:27,The Entrepreneur’s Journey,Guest Lecture,ME,4,"The Entrepreneur’s Journey (Guest Lecture) was well organized, good pace, great venue.",High,86,12,0.8442,Positive
+22-12-2024 22:03,Campus Problem Solver,Hackathon,EEE,2,"Campus Problem Solver (Hackathon) had issues with too basic, registration, too advanced.",Low,88,12,-0.1779,Negative
+14-01-2025 05:36,Smart City Hack,Hackathon,MBA,2,"Smart City Hack (Hackathon) had issues with crowd, too basic, air conditioning.",Low,79,12,0.4019,Positive
+27-06-2025 20:07,Dance Mania,Cultural Fest,IT,3,"Dance Mania (Cultural Fest) was average experience, slides were decent.",Medium,71,10,0,Neutral
+01-06-2025 18:57,Trends in 5G,Seminar,BIO,3,"Trends in 5G (Seminar) was slides were decent, could be more interactive.",Medium,73,12,0,Neutral
+10-04-2025 01:21,Rhythm & Beats Night,Cultural Fest,EEE,4,"Rhythm & Beats Night (Cultural Fest) was very engaging, hands-on and practical.",High,79,12,0.4005,Positive
+18-09-2024 23:44,24hr HealthTech Hack,Hackathon,CE,5,"24hr HealthTech Hack (Hackathon) was great venue, well organized, good pace.",High,76,11,0.8442,Positive
+05-09-2024 23:11,Green Energy Futures,Seminar,IT,5,"Green Energy Futures (Seminar) was great venue, learnt a lot.",High,61,10,0.7351,Positive
+16-01-2025 00:56,IoT & Robotics Arena,Tech Fest,MBA,4,"IoT & Robotics Arena (Tech Fest) was very engaging, well organized.",High,67,11,0.6214,Positive
+31-08-2024 21:25,Cybersecurity Basics,Workshop,BIO,4,"Cybersecurity Basics (Workshop) was useful takeaways, well organized, excellent speakers.",High,89,10,0.8271,Positive
+23-01-2025 18:15,Figma for Beginners,Workshop,AE,4,"Figma for Beginners (Workshop) was excellent speakers, hands-on and practical, learnt a lot.",High,92,13,0.5719,Positive
+24-06-2025 01:13,Power BI Essentials,Workshop,AE,5,"Power BI Essentials (Workshop) was excellent speakers, supportive volunteers, inspiring.",High,88,10,0.8271,Positive
+18-01-2025 23:12,The Entrepreneur’s Journey,Guest Lecture,AE,5,"The Entrepreneur’s Journey (Guest Lecture) was supportive volunteers, very engaging.",High,84,10,0.5984,Positive
+26-11-2024 03:54,Stagecraft Theatre,Cultural Fest,CE,3,"Stagecraft Theatre (Cultural Fest) was timing was manageable, topics were fine.",Medium,79,11,0.2023,Positive
+09-05-2025 05:44,Cloud & DevOps Fair,Tech Fest,MBA,4,"Cloud & DevOps Fair (Tech Fest) was clear slides, supportive volunteers.",High,72,11,0.7269,Positive
+01-03-2025 21:59,Rhythm & Beats Night,Cultural Fest,IT,4,"Rhythm & Beats Night (Cultural Fest) was well organized, interactive sessions, good pace.",High,89,13,0.6124,Positive
+25-07-2025 03:18,FutureTech Showcase,Tech Fest,ECE,3,"FutureTech Showcase (Tech Fest) was could be more interactive, average experience.",Medium,82,11,0,Neutral
+28-05-2025 23:04,Art & Craft Pop-up,Cultural Fest,MBA,5,"Art & Craft Pop-up (Cultural Fest) was well organized, great venue.",High,67,11,0.7351,Positive
+24-09-2024 05:01,Startup Funding 101,Guest Lecture,BIO,5,"Startup Funding 101 (Guest Lecture) was interactive sessions, very engaging, supportive volunteers.",High,99,12,0.6335,Positive
+12-09-2024 23:11,24hr HealthTech Hack,Hackathon,EEE,5,"24hr HealthTech Hack (Hackathon) was well organized, learnt a lot.",High,66,10,0.2732,Positive
+15-01-2025 23:07,Leadership & Teams,Seminar,IT,5,"Leadership & Teams (Seminar) was hands-on and practical, well organized, learnt a lot.",High,86,13,0.2732,Positive
+15-03-2025 04:40,IoT & Robotics Arena,Tech Fest,MBA,5,"IoT & Robotics Arena (Tech Fest) was excellent speakers, great venue, good pace.",High,80,13,0.8934,Positive
+14-05-2025 22:03,FinTech Innovation Sprint,Hackathon,ME,5,"FinTech Innovation Sprint (Hackathon) was supportive volunteers, inspiring, great venue.",High,88,10,0.8934,Positive
+26-06-2025 19:46,IoT & Robotics Arena,Tech Fest,IT,3,"IoT & Robotics Arena (Tech Fest) was okay overall, topics were fine.",Medium,68,12,0.4019,Positive
+26-07-2025 21:31,Careers in Data,Seminar,ECE,3,"Careers in Data (Seminar) was okay overall, could be more interactive.",Medium,70,11,0.2263,Positive
+18-02-2025 00:14,Campus Problem Solver,Hackathon,IT,5,"Campus Problem Solver (Hackathon) was supportive volunteers, inspiring.",High,71,8,0.3182,Positive
+16-07-2025 05:15,Product Management Myths,Guest Lecture,AE,3,"Product Management Myths (Guest Lecture) was topics were fine, could be more interactive.",Medium,89,13,0.2023,Positive
+06-09-2024 20:06,IoT & Robotics Arena,Tech Fest,IT,5,"IoT & Robotics Arena (Tech Fest) was clear slides, interactive sessions, very engaging.",High,87,13,0.6478,Positive
+25-09-2024 21:01,Art & Craft Pop-up,Cultural Fest,BIO,3,"Art & Craft Pop-up (Cultural Fest) was okay overall, average experience.",Medium,72,11,0.2263,Positive
+09-11-2024 03:40,Product Management Myths,Guest Lecture,MBA,4,"Product Management Myths (Guest Lecture) was useful takeaways, well organized, supportive volunteers.",High,101,12,0.7351,Positive
+11-06-2025 19:45,Careers in Data,Seminar,BIO,3,"Careers in Data (Seminar) was slides were decent, okay overall.",Medium,63,10,0.2263,Positive
+26-11-2024 00:45,The Future of EVs,Seminar,MBA,4,"The Future of EVs (Seminar) was learnt a lot, excellent speakers, well organized.",High,81,13,0.7003,Positive
+01-07-2025 21:56,Campus Problem Solver,Hackathon,ECE,5,"Campus Problem Solver (Hackathon) was hands-on and practical, inspiring, learnt a lot.",High,86,12,0.0258,Neutral
+19-11-2024 04:40,Smart City Hack,Hackathon,ECE,4,"Smart City Hack (Hackathon) was excellent speakers, inspiring.",High,62,8,0.8481,Positive
+26-05-2025 22:09,IoT & Robotics Arena,Tech Fest,MBA,5,"IoT & Robotics Arena (Tech Fest) was supportive volunteers, excellent speakers, clear slides.",High,93,13,0.8176,Positive
+03-12-2024 05:20,Green Energy Futures,Seminar,ME,4,"Green Energy Futures (Seminar) was clear slides, learnt a lot, excellent speakers.",High,82,12,0.8126,Positive
+11-06-2025 22:41,Power BI Essentials,Workshop,CSE,3,"Power BI Essentials (Workshop) was could be more interactive, timing was manageable.",Medium,84,12,0,Neutral
+14-03-2025 04:58,Colours of India,Cultural Fest,AE,4,"Colours of India (Cultural Fest) was excellent speakers, hands-on and practical.",High,80,11,0.5719,Positive
+01-02-2025 03:16,Campus Problem Solver,Hackathon,IT,5,"Campus Problem Solver (Hackathon) was useful takeaways, excellent speakers, very engaging.",High,90,11,0.7645,Positive
+16-07-2025 02:23,Sustainability Hack Night,Hackathon,CHE,2,"Sustainability Hack Night (Hackathon) had issues with seating, too advanced.",Low,76,10,0.25,Positive
+08-11-2024 21:22,Power BI Essentials,Workshop,CHE,4,"Power BI Essentials (Workshop) was excellent speakers, clear slides.",High,68,9,0.743,Positive
+28-12-2024 20:52,Web Dev Bootcamp,Workshop,CE,4,"Web Dev Bootcamp (Workshop) was clear slides, hands-on and practical, excellent speakers.",High,89,12,0.743,Positive
+07-05-2025 03:22,Stagecraft Theatre,Cultural Fest,ME,4,"Stagecraft Theatre (Cultural Fest) was useful takeaways, clear slides, excellent speakers.",High,90,11,0.8481,Positive
+08-07-2025 05:09,Dance Mania,Cultural Fest,ME,3,"Dance Mania (Cultural Fest) was average experience, room was adequate.",Medium,70,10,0.2263,Positive
+15-09-2024 04:01,Stagecraft Theatre,Cultural Fest,AE,4,"Stagecraft Theatre (Cultural Fest) was well organized, excellent speakers.",High,74,9,0.7003,Positive
+04-05-2025 03:46,Stagecraft Theatre,Cultural Fest,CE,4,"Stagecraft Theatre (Cultural Fest) was useful takeaways, interactive sessions, well organized.",High,94,11,0.6124,Positive
+22-01-2025 00:16,Design Thinking in Practice,Seminar,EEE,4,"Design Thinking in Practice (Seminar) was learnt a lot, interactive sessions, good pace.",High,88,13,0.4404,Positive
+04-12-2024 22:50,AI Ethics in Industry,Guest Lecture,ME,5,"AI Ethics in Industry (Guest Lecture) was good pace, inspiring, interactive sessions.",High,85,12,0.6908,Positive
+13-05-2025 01:18,Web Dev Bootcamp,Workshop,MBA,4,"Web Dev Bootcamp (Workshop) was good pace, very engaging, great venue.",High,70,11,0.8742,Positive
+09-04-2025 20:21,Green Energy Futures,Seminar,BIO,3,"Green Energy Futures (Seminar) was okay overall, could be more interactive.",Medium,75,11,0.4588,Positive
+11-11-2024 23:11,InnovateX Tech Expo,Tech Fest,EEE,4,"InnovateX Tech Expo (Tech Fest) was useful takeaways, good pace, learnt a lot.",High,78,13,0.7003,Positive
+13-05-2025 00:43,Art & Craft Pop-up,Cultural Fest,MBA,5,"Art & Craft Pop-up (Cultural Fest) was very engaging, inspiring.",High,64,10,0.6976,Positive
+13-04-2025 20:25,The Future of EVs,Seminar,CSE,4,"The Future of EVs (Seminar) was good pace, clear slides.",High,56,10,0.6705,Positive
+03-05-2025 03:08,Stagecraft Theatre,Cultural Fest,CSE,3,"Stagecraft Theatre (Cultural Fest) was okay overall, could be more interactive.",Medium,79,11,0.2263,Positive
+30-03-2025 20:08,UX Research in the Wild,Guest Lecture,BIO,4,"UX Research in the Wild (Guest Lecture) was clear slides, well organized, excellent speakers.",High,93,14,0.8126,Positive
+18-09-2024 02:47,Design Thinking in Practice,Seminar,MBA,4,"Design Thinking in Practice (Seminar) was great venue, well organized, good pace.",High,81,12,0.8442,Positive
+08-03-2025 01:40,Web Dev Bootcamp,Workshop,CHE,3,"Web Dev Bootcamp (Workshop) was could be more interactive, okay overall.",Medium,72,11,0.2911,Positive
+21-10-2024 19:18,Stagecraft Theatre,Cultural Fest,AE,3,"Stagecraft Theatre (Cultural Fest) was room was adequate, timing was manageable.",Medium,80,11,0.2263,Positive
+03-11-2024 20:50,FinTech Innovation Sprint,Hackathon,MBA,3,"FinTech Innovation Sprint (Hackathon) was timing was manageable, could be more interactive.",Medium,91,12,0.3818,Positive
+01-11-2024 04:33,Fusion Music Evening,Cultural Fest,CHE,4,"Fusion Music Evening (Cultural Fest) was well organized, supportive volunteers.",High,79,10,0.5106,Positive
+01-11-2024 23:11,Campus Problem Solver,Hackathon,BIO,5,"Campus Problem Solver (Hackathon) was useful takeaways, clear slides.",High,69,9,0.4215,Positive
+21-06-2025 22:44,Stagecraft Theatre,Cultural Fest,ME,1,"Stagecraft Theatre (Cultural Fest) had issues with crowd, wifi.",Low,63,9,0,Neutral
+08-02-2025 03:19,Dance Mania,Cultural Fest,BIO,5,"Dance Mania (Cultural Fest) was inspiring, well organized, great venue.",High,71,10,0.8402,Positive
+05-01-2025 04:02,Campus Problem Solver,Hackathon,EEE,4,"Campus Problem Solver (Hackathon) was useful takeaways, inspiring.",High,66,8,0.4588,Positive
+17-06-2025 00:22,Dance Mania,Cultural Fest,CE,3,"Dance Mania (Cultural Fest) was room was adequate, okay overall.",Medium,64,10,0.4215,Positive
+08-09-2024 02:56,Art & Craft Pop-up,Cultural Fest,AE,4,"Art & Craft Pop-up (Cultural Fest) was very engaging, interactive sessions, learnt a lot.",High,89,14,0.4005,Positive
+22-03-2025 04:25,ByteBlast Coding Games,Tech Fest,CSE,5,"ByteBlast Coding Games (Tech Fest) was great venue, good pace, very engaging.",High,77,12,0.8655,Positive
+01-11-2024 01:25,Campus Problem Solver,Hackathon,AE,2,"Campus Problem Solver (Hackathon) had issues with projector, timing.",Low,68,9,-0.4019,Negative
+21-05-2025 22:46,Stagecraft Theatre,Cultural Fest,BIO,5,"Stagecraft Theatre (Cultural Fest) was great venue, very engaging, inspiring.",High,77,10,0.8712,Positive
+03-06-2025 21:26,Design Thinking in Practice,Seminar,EEE,4,"Design Thinking in Practice (Seminar) was learnt a lot, supportive volunteers, hands-on and practical.",High,102,14,0.296,Positive
+05-06-2025 05:58,Careers in Data,Seminar,CE,4,"Careers in Data (Seminar) was great venue, inspiring, supportive volunteers.",High,76,10,0.8442,Positive
+17-01-2025 17:30,Careers in Data,Seminar,ECE,4,"Careers in Data (Seminar) was good pace, great venue, very engaging.",High,68,11,0.8655,Positive
+24-04-2025 20:24,AI Ethics in Industry,Guest Lecture,MBA,2,"AI Ethics in Industry (Guest Lecture) had issues with air conditioning, wifi.",Low,77,12,0,Neutral
+18-06-2025 20:27,Stagecraft Theatre,Cultural Fest,CHE,5,"Stagecraft Theatre (Cultural Fest) was very engaging, excellent speakers, useful takeaways.",High,91,11,0.8615,Positive
+17-09-2024 18:38,IoT & Robotics Arena,Tech Fest,CHE,5,"IoT & Robotics Arena (Tech Fest) was interactive sessions, learnt a lot.",High,72,12,0,Neutral
+25-08-2024 02:11,Design Thinking in Practice,Seminar,BIO,4,"Design Thinking in Practice (Seminar) was interactive sessions, very engaging.",High,78,10,0.4005,Positive
+02-02-2025 21:53,Power BI Essentials,Workshop,BIO,4,"Power BI Essentials (Workshop) was interactive sessions, learnt a lot, hands-on and practical.",High,94,13,0,Neutral
+10-09-2024 19:38,InnovateX Tech Expo,Tech Fest,AE,3,"InnovateX Tech Expo (Tech Fest) was average experience, timing was manageable.",Medium,78,11,0,Neutral
+26-08-2024 21:48,Python for Data Science,Workshop,IT,4,"Python for Data Science (Workshop) was very engaging, hands-on and practical, well organized.",High,93,13,0.5849,Positive
+18-05-2025 01:08,Rhythm & Beats Night,Cultural Fest,MBA,4,"Rhythm & Beats Night (Cultural Fest) was inspiring, interactive sessions, clear slides.",High,87,12,0.6597,Positive
+14-11-2024 04:41,Figma for Beginners,Workshop,BIO,5,"Figma for Beginners (Workshop) was learnt a lot, excellent speakers, great venue.",High,81,12,0.8316,Positive
+21-01-2025 02:55,Product Management Myths,Guest Lecture,ME,5,"Product Management Myths (Guest Lecture) was supportive volunteers, great venue.",High,80,10,0.743,Positive
+05-10-2024 23:54,Intro to Machine Learning,Workshop,AE,4,"Intro to Machine Learning (Workshop) was good pace, clear slides, great venue.",High,78,12,0.8625,Positive
+25-08-2024 21:36,ByteBlast Coding Games,Tech Fest,ME,1,"ByteBlast Coding Games (Tech Fest) had issues with audio, registration.",Low,71,10,0,Neutral
+27-08-2024 21:53,Power BI Essentials,Workshop,EEE,5,"Power BI Essentials (Workshop) was hands-on and practical, useful takeaways, interactive sessions.",High,98,12,0.4404,Positive
+22-10-2024 00:31,Design Thinking in Practice,Seminar,CE,3,"Design Thinking in Practice (Seminar) was okay overall, room was adequate.",Medium,74,11,0.4215,Positive
+27-02-2025 02:26,Power BI Essentials,Workshop,CHE,5,"Power BI Essentials (Workshop) was supportive volunteers, excellent speakers, hands-on and practical.",High,101,12,0.7096,Positive
+28-06-2025 22:38,Intro to Machine Learning,Workshop,BIO,1,Intro to Machine Learning (Workshop) had issues with too basic.,Low,63,10,0,Neutral
+28-07-2025 21:00,The Entrepreneur’s Journey,Guest Lecture,BIO,3,"The Entrepreneur’s Journey (Guest Lecture) was slides were decent, timing was manageable.",Medium,89,12,0,Neutral
+19-05-2025 00:45,Cybersecurity Basics,Workshop,AE,3,"Cybersecurity Basics (Workshop) was slides were decent, okay overall.",Medium,69,9,0.2263,Positive
+07-05-2025 20:48,Product Management Myths,Guest Lecture,ECE,4,"Product Management Myths (Guest Lecture) was well organized, clear slides.",High,74,10,0.5719,Positive
+05-08-2025 20:57,Colours of India,Cultural Fest,ME,4,"Colours of India (Cultural Fest) was clear slides, inspiring, excellent speakers.",High,81,11,0.8442,Positive
+11-05-2025 23:41,Fusion Music Evening,Cultural Fest,ECE,4,"Fusion Music Evening (Cultural Fest) was well organized, inspiring, very engaging.",High,82,11,0.7645,Positive
+27-01-2025 04:13,Rhythm & Beats Night,Cultural Fest,CHE,3,"Rhythm & Beats Night (Cultural Fest) was topics were fine, room was adequate.",Medium,77,13,0.4019,Positive
+14-09-2024 23:34,FinTech Innovation Sprint,Hackathon,CSE,5,"FinTech Innovation Sprint (Hackathon) was useful takeaways, excellent speakers.",High,79,9,0.8481,Positive
+07-09-2024 21:38,AI Ethics in Industry,Guest Lecture,CHE,5,"AI Ethics in Industry (Guest Lecture) was excellent speakers, inspiring.",High,72,10,0.7579,Positive
+03-03-2025 23:17,Intro to Machine Learning,Workshop,IT,2,"Intro to Machine Learning (Workshop) had issues with venue, too basic.",Low,70,11,0,Neutral
+21-10-2024 19:46,UX Research in the Wild,Guest Lecture,CHE,4,"UX Research in the Wild (Guest Lecture) was interactive sessions, great venue.",High,78,12,0.6249,Positive
+24-08-2024 05:13,Campus Problem Solver,Hackathon,ME,3,"Campus Problem Solver (Hackathon) was room was adequate, average experience.",Medium,76,10,-0.2023,Negative
+27-12-2024 00:34,The Future of EVs,Seminar,CHE,5,"The Future of EVs (Seminar) was clear slides, good pace, learnt a lot.",High,70,13,0.6705,Positive
+25-03-2025 03:01,Web Dev Bootcamp,Workshop,CE,4,"Web Dev Bootcamp (Workshop) was well organized, interactive sessions.",High,69,9,0.2732,Positive
+09-09-2024 00:50,ByteBlast Coding Games,Tech Fest,CE,4,"ByteBlast Coding Games (Tech Fest) was excellent speakers, useful takeaways.",High,76,10,0.765,Positive
+13-09-2024 23:40,UX Research in the Wild,Guest Lecture,CSE,1,UX Research in the Wild (Guest Lecture) had issues with projector.,Low,66,11,0,Neutral
+17-01-2025 21:04,Figma for Beginners,Workshop,CE,4,"Figma for Beginners (Workshop) was very engaging, clear slides.",High,63,9,0.6779,Positive
+27-07-2025 01:26,The Entrepreneur’s Journey,Guest Lecture,MBA,4,"The Entrepreneur’s Journey (Guest Lecture) was learnt a lot, hands-on and practical, very engaging.",High,99,14,0.4005,Positive
+21-06-2025 05:10,FinTech Innovation Sprint,Hackathon,EEE,2,FinTech Innovation Sprint (Hackathon) had issues with too advanced.,Low,67,9,0.5574,Positive
+17-05-2025 22:56,Cybersecurity Basics,Workshop,IT,5,"Cybersecurity Basics (Workshop) was well organized, great venue, good pace.",High,75,10,0.8442,Positive
+25-05-2025 00:27,Sustainability Hack Night,Hackathon,ME,2,"Sustainability Hack Night (Hackathon) had issues with venue, seating.",Low,69,9,0,Neutral
+24-03-2025 01:45,Web Dev Bootcamp,Workshop,ME,4,"Web Dev Bootcamp (Workshop) was well organized, clear slides, good pace.",High,72,11,0.765,Positive
+09-04-2025 22:17,Power BI Essentials,Workshop,CE,5,"Power BI Essentials (Workshop) was learnt a lot, great venue, excellent speakers.",High,81,12,0.8316,Positive
+04-03-2025 03:50,Art & Craft Pop-up,Cultural Fest,CE,3,"Art & Craft Pop-up (Cultural Fest) was okay overall, could be more interactive.",Medium,79,13,0.2263,Positive
+01-08-2025 01:25,Rhythm & Beats Night,Cultural Fest,ECE,3,"Rhythm & Beats Night (Cultural Fest) was average experience, timing was manageable.",Medium,83,12,0,Neutral
+22-10-2024 05:00,Smart City Hack,Hackathon,MBA,5,"Smart City Hack (Hackathon) was well organized, learnt a lot, interactive sessions.",High,83,12,0.5859,Positive
+31-05-2025 23:01,Smart City Hack,Hackathon,AE,4,"Smart City Hack (Hackathon) was good pace, learnt a lot.",High,56,10,0.6808,Positive
+12-05-2025 00:41,The Future of EVs,Seminar,BIO,4,"The Future of EVs (Seminar) was hands-on and practical, supportive volunteers, great venue.",High,91,13,0.743,Positive
+21-03-2025 17:48,IoT & Robotics Arena,Tech Fest,BIO,5,"IoT & Robotics Arena (Tech Fest) was learnt a lot, great venue, interactive sessions.",High,85,14,0.6249,Positive
+02-06-2025 02:49,Cybersecurity Basics,Workshop,ME,3,"Cybersecurity Basics (Workshop) was okay overall, could be more interactive.",Medium,76,10,0.2263,Positive
+17-12-2024 23:48,Space Tech & You,Guest Lecture,EEE,4,"Space Tech & You (Guest Lecture) was learnt a lot, great venue.",High,63,12,0.6249,Positive
+14-04-2025 19:58,Power BI Essentials,Workshop,CHE,4,"Power BI Essentials (Workshop) was hands-on and practical, inspiring, interactive sessions.",High,91,11,0.4215,Positive
+17-05-2025 18:05,Green Energy Futures,Seminar,ME,4,"Green Energy Futures (Seminar) was very engaging, clear slides, well organized.",High,79,11,0.8304,Positive
+10-07-2025 20:16,IoT & Robotics Arena,Tech Fest,CSE,5,"IoT & Robotics Arena (Tech Fest) was good pace, very engaging.",High,62,11,0.6801,Positive
+01-03-2025 17:51,Startup Funding 101,Guest Lecture,CSE,4,"Startup Funding 101 (Guest Lecture) was clear slides, inspiring.",High,64,9,0.6597,Positive
+28-04-2025 17:12,UX Research in the Wild,Guest Lecture,AE,3,"UX Research in the Wild (Guest Lecture) was topics were fine, room was adequate.",Medium,80,14,0.4019,Positive
+21-05-2025 04:29,Dance Mania,Cultural Fest,IT,3,"Dance Mania (Cultural Fest) was okay overall, slides were decent.",Medium,65,10,0.2263,Positive
+17-05-2025 19:27,Stagecraft Theatre,Cultural Fest,CSE,4,"Stagecraft Theatre (Cultural Fest) was very engaging, excellent speakers, interactive sessions.",High,95,11,0.7698,Positive
+01-10-2024 22:37,Figma for Beginners,Workshop,CHE,5,"Figma for Beginners (Workshop) was great venue, hands-on and practical, good pace.",High,82,12,0.7906,Positive
+23-01-2025 04:04,Campus Problem Solver,Hackathon,CE,3,"Campus Problem Solver (Hackathon) was room was adequate, average experience.",Medium,76,10,-0.2023,Negative
+04-03-2025 01:42,IoT & Robotics Arena,Tech Fest,CSE,4,"IoT & Robotics Arena (Tech Fest) was good pace, supportive volunteers.",High,70,11,0.6249,Positive
+02-04-2025 04:02,IoT & Robotics Arena,Tech Fest,CSE,4,"IoT & Robotics Arena (Tech Fest) was excellent speakers, inspiring.",High,67,10,0.7579,Positive
+17-12-2024 21:09,Leadership & Teams,Seminar,ECE,3,"Leadership & Teams (Seminar) was timing was manageable, okay overall.",Medium,69,10,0.2263,Positive
+28-05-2025 02:54,The Entrepreneur’s Journey,Guest Lecture,BIO,4,"The Entrepreneur’s Journey (Guest Lecture) was well organized, excellent speakers, hands-on and practical.",High,106,13,0.7003,Positive
+04-11-2024 06:04,ByteBlast Coding Games,Tech Fest,MBA,5,"ByteBlast Coding Games (Tech Fest) was learnt a lot, useful takeaways.",High,70,11,0.4404,Positive
+24-12-2024 03:05,Space Tech & You,Guest Lecture,ECE,1,"Space Tech & You (Guest Lecture) had issues with seating, crowd.",Low,64,11,0,Neutral
+02-11-2024 05:56,Campus Problem Solver,Hackathon,MBA,3,"Campus Problem Solver (Hackathon) was topics were fine, room was adequate.",Medium,74,11,0,Neutral
+02-04-2025 21:05,AI Ethics in Industry,Guest Lecture,CHE,2,"AI Ethics in Industry (Guest Lecture) had issues with audio, timing, food.",Low,74,12,0,Neutral
+10-04-2025 00:26,FutureTech Showcase,Tech Fest,AE,5,"FutureTech Showcase (Tech Fest) was great venue, well organized, hands-on and practical.",High,88,12,0.7351,Positive
+26-07-2025 23:17,Leadership & Teams,Seminar,IT,5,"Leadership & Teams (Seminar) was very engaging, interactive sessions, useful takeaways.",High,87,11,0.6801,Positive
+03-10-2024 21:21,Stagecraft Theatre,Cultural Fest,CE,3,"Stagecraft Theatre (Cultural Fest) was room was adequate, okay overall.",Medium,71,10,0.4215,Positive
+07-10-2024 17:31,Smart City Hack,Hackathon,IT,1,"Smart City Hack (Hackathon) had issues with audio, food.",Low,56,9,0.4019,Positive
+25-11-2024 23:40,FinTech Innovation Sprint,Hackathon,EEE,4,"FinTech Innovation Sprint (Hackathon) was very engaging, excellent speakers.",High,76,9,0.8508,Positive
+20-02-2025 01:17,Dance Mania,Cultural Fest,CHE,4,"Dance Mania (Cultural Fest) was excellent speakers, well organized, supportive volunteers.",High,90,11,0.7906,Positive
+09-03-2025 05:17,Dance Mania,Cultural Fest,MBA,4,"Dance Mania (Cultural Fest) was well organized, hands-on and practical, good pace.",High,82,12,0.6124,Positive
+16-11-2024 19:29,The Entrepreneur’s Journey,Guest Lecture,CE,5,"The Entrepreneur’s Journey (Guest Lecture) was interactive sessions, good pace.",High,79,10,0.4404,Positive
+01-04-2025 21:38,Careers in Data,Seminar,BIO,5,"Careers in Data (Seminar) was excellent speakers, very engaging.",High,64,9,0.7501,Positive
+27-12-2024 04:52,The Future of EVs,Seminar,ECE,3,"The Future of EVs (Seminar) was could be more interactive, slides were decent.",Medium,78,13,0,Neutral
+15-10-2024 19:31,Campus Problem Solver,Hackathon,AE,3,"Campus Problem Solver (Hackathon) was average experience, topics were fine.",Medium,75,10,-0.2263,Negative
+31-03-2025 03:50,Campus AI Day,Tech Fest,MBA,4,"Campus AI Day (Tech Fest) was great venue, inspiring, supportive volunteers.",High,76,11,0.8442,Positive
+29-01-2025 19:37,Web Dev Bootcamp,Workshop,MBA,1,"Web Dev Bootcamp (Workshop) had issues with projector, registration, too basic.",Low,79,11,0,Neutral
+13-01-2025 05:37,Careers in Data,Seminar,BIO,4,"Careers in Data (Seminar) was great venue, good pace.",High,53,9,0.7906,Positive
+23-11-2024 04:01,Trends in 5G,Seminar,AE,5,"Trends in 5G (Seminar) was useful takeaways, clear slides.",High,58,9,0.6705,Positive
+11-08-2025 19:04,Rhythm & Beats Night,Cultural Fest,BIO,2,"Rhythm & Beats Night (Cultural Fest) had issues with registration, too basic, wifi.",Low,83,13,0,Neutral
+23-12-2024 21:54,Sustainability Hack Night,Hackathon,ME,3,"Sustainability Hack Night (Hackathon) was room was adequate, could be more interactive.",Medium,87,12,0.2263,Positive
+25-04-2025 02:37,Cybersecurity Basics,Workshop,IT,5,"Cybersecurity Basics (Workshop) was excellent speakers, inspiring, useful takeaways.",High,84,9,0.8555,Positive
+23-02-2025 05:09,Dance Mania,Cultural Fest,IT,3,"Dance Mania (Cultural Fest) was timing was manageable, okay overall.",Medium,68,10,0.2263,Positive
+28-07-2025 22:22,Dance Mania,Cultural Fest,ECE,5,"Dance Mania (Cultural Fest) was learnt a lot, interactive sessions.",High,67,10,0,Neutral
+27-08-2024 18:28,The Entrepreneur’s Journey,Guest Lecture,CSE,4,"The Entrepreneur’s Journey (Guest Lecture) was great venue, good pace, excellent speakers.",High,90,12,0.8934,Positive
+11-03-2025 01:01,Figma for Beginners,Workshop,CHE,4,"Figma for Beginners (Workshop) was inspiring, great venue.",High,58,8,0.7845,Positive
+26-04-2025 18:30,The Entrepreneur’s Journey,Guest Lecture,CHE,4,"The Entrepreneur’s Journey (Guest Lecture) was great venue, well organized.",High,75,10,0.7351,Positive
+14-02-2025 01:02,24hr HealthTech Hack,Hackathon,ECE,5,"24hr HealthTech Hack (Hackathon) was great venue, hands-on and practical.",High,73,10,0.6249,Positive
+11-10-2024 00:58,Figma for Beginners,Workshop,BIO,3,"Figma for Beginners (Workshop) was could be more interactive, topics were fine.",Medium,79,12,0.2023,Positive
+19-10-2024 18:06,Space Tech & You,Guest Lecture,MBA,4,"Space Tech & You (Guest Lecture) was hands-on and practical, well organized.",High,76,12,0.2732,Positive
+20-11-2024 01:22,Design Thinking in Practice,Seminar,ECE,2,"Design Thinking in Practice (Seminar) had issues with seating, registration, too advanced.",Low,90,12,0.25,Positive
+26-11-2024 03:54,Leadership & Teams,Seminar,IT,5,"Leadership & Teams (Seminar) was learnt a lot, good pace, very engaging.",High,72,12,0.6801,Positive
+29-03-2025 23:12,Sustainability Hack Night,Hackathon,CSE,4,"Sustainability Hack Night (Hackathon) was inspiring, useful takeaways.",High,70,8,0.6908,Positive
+14-10-2024 06:07,Startup Funding 101,Guest Lecture,CE,4,"Startup Funding 101 (Guest Lecture) was supportive volunteers, excellent speakers, useful takeaways.",High,100,12,0.8316,Positive
+04-01-2025 04:07,Colours of India,Cultural Fest,MBA,4,"Colours of India (Cultural Fest) was learnt a lot, inspiring, excellent speakers.",High,81,12,0.7579,Positive
+19-10-2024 22:34,Campus Problem Solver,Hackathon,MBA,4,"Campus Problem Solver (Hackathon) was useful takeaways, good pace, supportive volunteers.",High,89,11,0.6486,Positive
+01-08-2025 19:32,Campus Problem Solver,Hackathon,ME,5,"Campus Problem Solver (Hackathon) was useful takeaways, supportive volunteers, excellent speakers.",High,98,11,0.7269,Positive
+12-08-2025 19:44,ByteBlast Coding Games,Tech Fest,EEE,5,"ByteBlast Coding Games (Tech Fest) was very engaging, great venue.",High,66,10,0.7947,Positive
+26-03-2025 19:43,Sustainability Hack Night,Hackathon,AE,5,"Sustainability Hack Night (Hackathon) was useful takeaways, good pace.",High,70,9,0.7003,Positive
+01-11-2024 19:32,The Entrepreneur’s Journey,Guest Lecture,ME,5,"The Entrepreneur’s Journey (Guest Lecture) was inspiring, hands-on and practical.",High,81,10,0.4215,Positive
+29-11-2024 23:47,Campus Problem Solver,Hackathon,CSE,5,"Campus Problem Solver (Hackathon) was well organized, inspiring, very engaging.",High,79,10,0.5984,Positive
+07-04-2025 00:22,Art & Craft Pop-up,Cultural Fest,BIO,5,"Art & Craft Pop-up (Cultural Fest) was interactive sessions, inspiring, good pace.",High,82,12,0.6908,Positive
+18-01-2025 17:29,Cloud & DevOps Fair,Tech Fest,CSE,3,"Cloud & DevOps Fair (Tech Fest) was slides were decent, average experience.",Medium,75,12,0.3182,Positive
+08-06-2025 05:01,Figma for Beginners,Workshop,EEE,3,"Figma for Beginners (Workshop) was average experience, topics were fine.",Medium,72,10,0.2023,Positive
+07-01-2025 05:46,Campus Problem Solver,Hackathon,CHE,5,"Campus Problem Solver (Hackathon) was useful takeaways, excellent speakers.",High,75,9,0.5994,Positive
+27-03-2025 18:59,Leadership & Teams,Seminar,CSE,2,"Leadership & Teams (Seminar) had issues with too basic, too advanced, registration.",Low,83,12,0.25,Positive
+03-01-2025 23:07,Startup Funding 101,Guest Lecture,EEE,1,Startup Funding 101 (Guest Lecture) had issues with too basic.,Low,62,10,0,Neutral
+09-08-2025 23:07,Campus AI Day,Tech Fest,ECE,4,"Campus AI Day (Tech Fest) was learnt a lot, useful takeaways.",High,61,11,0.4404,Positive
+05-12-2024 21:03,The Entrepreneur’s Journey,Guest Lecture,IT,5,"The Entrepreneur’s Journey (Guest Lecture) was useful takeaways, very engaging.",High,79,10,0.6801,Positive
+04-02-2025 04:30,Cloud & DevOps Fair,Tech Fest,MBA,4,"Cloud & DevOps Fair (Tech Fest) was useful takeaways, clear slides, very engaging.",High,82,13,0.8588,Positive
+20-03-2025 17:29,Leadership & Teams,Seminar,EEE,2,"Leadership & Teams (Seminar) had issues with air conditioning, food, seating.",Low,77,11,0,Neutral
+27-12-2024 06:05,Startup Funding 101,Guest Lecture,ME,4,"Startup Funding 101 (Guest Lecture) was very engaging, great venue.",High,67,10,0.7947,Positive
+11-07-2025 21:52,Space Tech & You,Guest Lecture,BIO,3,"Space Tech & You (Guest Lecture) was average experience, timing was manageable.",Medium,79,12,0,Neutral
+17-03-2025 01:59,Sustainability Hack Night,Hackathon,BIO,5,"Sustainability Hack Night (Hackathon) was interactive sessions, excellent speakers.",High,83,9,0.5719,Positive
+24-08-2024 06:06,Design Thinking in Practice,Seminar,MBA,5,"Design Thinking in Practice (Seminar) was inspiring, great venue, useful takeaways.",High,83,11,0.8689,Positive
+14-08-2025 23:06,AI Ethics in Industry,Guest Lecture,BIO,3,"AI Ethics in Industry (Guest Lecture) was room was adequate, slides were decent.",Medium,80,13,0.2263,Positive
+02-05-2025 21:32,Cloud & DevOps Fair,Tech Fest,IT,5,"Cloud & DevOps Fair (Tech Fest) was good pace, learnt a lot.",High,60,12,0.6369,Positive
+14-02-2025 04:00,Careers in Data,Seminar,CHE,4,"Careers in Data (Seminar) was useful takeaways, inspiring.",High,58,8,0.6908,Positive
+05-04-2025 00:12,InnovateX Tech Expo,Tech Fest,ECE,4,"InnovateX Tech Expo (Tech Fest) was well organized, excellent speakers, very engaging.",High,86,12,0.8173,Positive
+23-07-2025 22:28,Smart City Hack,Hackathon,ME,5,"Smart City Hack (Hackathon) was very engaging, hands-on and practical, excellent speakers.",High,90,12,0.8439,Positive
+26-01-2025 04:56,FutureTech Showcase,Tech Fest,ME,5,"FutureTech Showcase (Tech Fest) was good pace, interactive sessions.",High,68,9,0.4404,Positive
+23-04-2025 18:20,Power BI Essentials,Workshop,ECE,2,"Power BI Essentials (Workshop) had issues with food, timing, registration.",Low,74,10,0,Neutral
+22-10-2024 23:56,Colours of India,Cultural Fest,CHE,5,"Colours of India (Cultural Fest) was well organized, supportive volunteers, great venue.",High,88,12,0.8126,Positive
+07-10-2024 05:03,Power BI Essentials,Workshop,ECE,3,"Power BI Essentials (Workshop) was average experience, topics were fine.",Medium,72,10,0.2023,Positive
+30-10-2024 03:55,InnovateX Tech Expo,Tech Fest,MBA,5,"InnovateX Tech Expo (Tech Fest) was hands-on and practical, very engaging, good pace.",High,85,13,0.707,Positive
+15-11-2024 00:34,Python for Data Science,Workshop,CHE,5,"Python for Data Science (Workshop) was useful takeaways, interactive sessions.",High,78,10,0.4404,Positive
+09-08-2025 01:07,Startup Funding 101,Guest Lecture,ME,3,"Startup Funding 101 (Guest Lecture) was topics were fine, timing was manageable.",Medium,80,12,0.2023,Positive
+20-06-2025 04:36,Python for Data Science,Workshop,ECE,3,"Python for Data Science (Workshop) was average experience, okay overall.",Medium,72,10,0.2263,Positive
+18-07-2025 18:27,The Future of EVs,Seminar,MBA,4,"The Future of EVs (Seminar) was learnt a lot, hands-on and practical.",High,69,12,0,Neutral
+25-07-2025 21:25,Dance Mania,Cultural Fest,AE,2,"Dance Mania (Cultural Fest) had issues with crowd, wifi, timing.",Low,64,10,0,Neutral
+21-01-2025 03:15,Dance Mania,Cultural Fest,CHE,4,"Dance Mania (Cultural Fest) was supportive volunteers, good pace.",High,65,9,0.6249,Positive
+15-07-2025 02:16,Power BI Essentials,Workshop,IT,4,"Power BI Essentials (Workshop) was learnt a lot, inspiring.",High,59,9,0.4215,Positive
+09-06-2025 23:35,Rhythm & Beats Night,Cultural Fest,MBA,1,"Rhythm & Beats Night (Cultural Fest) had issues with seating, venue.",Low,68,11,0,Neutral
+28-09-2024 17:49,Art & Craft Pop-up,Cultural Fest,ME,3,"Art & Craft Pop-up (Cultural Fest) was slides were decent, topics were fine.",Medium,76,13,0.2023,Positive
+14-03-2025 01:30,InnovateX Tech Expo,Tech Fest,EEE,4,"InnovateX Tech Expo (Tech Fest) was well organized, supportive volunteers.",High,74,10,0.5106,Positive
+16-07-2025 01:46,UX Research in the Wild,Guest Lecture,CHE,4,"UX Research in the Wild (Guest Lecture) was good pace, supportive volunteers, excellent speakers.",High,97,14,0.8316,Positive
+10-05-2025 21:03,Colours of India,Cultural Fest,EEE,4,"Colours of India (Cultural Fest) was hands-on and practical, excellent speakers.",High,80,11,0.5719,Positive
+28-01-2025 04:39,Figma for Beginners,Workshop,MBA,4,"Figma for Beginners (Workshop) was useful takeaways, interactive sessions, excellent speakers.",High,94,11,0.765,Positive
+21-10-2024 00:51,Startup Funding 101,Guest Lecture,CSE,5,"Startup Funding 101 (Guest Lecture) was excellent speakers, good pace.",High,70,10,0.765,Positive
+01-11-2024 04:12,Rhythm & Beats Night,Cultural Fest,EEE,4,"Rhythm & Beats Night (Cultural Fest) was excellent speakers, well organized.",High,76,11,0.7003,Positive
+07-01-2025 05:08,Power BI Essentials,Workshop,MBA,5,"Power BI Essentials (Workshop) was very engaging, great venue, supportive volunteers.",High,85,11,0.8508,Positive
+04-01-2025 04:48,InnovateX Tech Expo,Tech Fest,MBA,5,"InnovateX Tech Expo (Tech Fest) was hands-on and practical, clear slides, excellent speakers.",High,93,13,0.743,Positive
+05-05-2025 02:22,AI Ethics in Industry,Guest Lecture,BIO,5,"AI Ethics in Industry (Guest Lecture) was clear slides, great venue, well organized.",High,84,13,0.8316,Positive
+03-08-2025 04:19,Green Energy Futures,Seminar,EEE,1,Green Energy Futures (Seminar) had issues with crowd.,Low,53,8,0.2732,Positive
+28-08-2024 20:14,Cybersecurity Basics,Workshop,CHE,2,Cybersecurity Basics (Workshop) had issues with timing.,Low,55,7,0,Neutral
+10-09-2024 02:03,FinTech Innovation Sprint,Hackathon,IT,3,"FinTech Innovation Sprint (Hackathon) was average experience, slides were decent.",Medium,81,10,0.3818,Positive
+28-12-2024 00:10,UX Research in the Wild,Guest Lecture,IT,3,"UX Research in the Wild (Guest Lecture) was average experience, could be more interactive.",Medium,90,14,0,Neutral
+23-10-2024 01:55,Product Management Myths,Guest Lecture,EEE,5,"Product Management Myths (Guest Lecture) was useful takeaways, great venue.",High,75,10,0.7906,Positive
+17-04-2025 22:01,ByteBlast Coding Games,Tech Fest,CE,5,"ByteBlast Coding Games (Tech Fest) was good pace, excellent speakers.",High,69,10,0.765,Positive
+19-01-2025 03:02,Careers in Data,Seminar,ECE,4,"Careers in Data (Seminar) was well organized, great venue, learnt a lot.",High,72,12,0.7351,Positive
+21-06-2025 01:01,Design Thinking in Practice,Seminar,AE,4,"Design Thinking in Practice (Seminar) was inspiring, great venue.",High,65,9,0.7845,Positive
+19-03-2025 17:26,Cybersecurity Basics,Workshop,CHE,4,"Cybersecurity Basics (Workshop) was very engaging, well organized.",High,66,8,0.6214,Positive
+26-01-2025 18:25,Stagecraft Theatre,Cultural Fest,CSE,4,"Stagecraft Theatre (Cultural Fest) was well organized, interactive sessions, good pace.",High,87,11,0.6124,Positive
+03-11-2024 04:29,Colours of India,Cultural Fest,IT,3,"Colours of India (Cultural Fest) was topics were fine, okay overall.",Medium,68,11,0.4019,Positive
+05-10-2024 02:18,InnovateX Tech Expo,Tech Fest,CE,4,"InnovateX Tech Expo (Tech Fest) was supportive volunteers, great venue, inspiring.",High,82,11,0.8442,Positive
+22-09-2024 23:54,Colours of India,Cultural Fest,IT,4,"Colours of India (Cultural Fest) was useful takeaways, supportive volunteers.",High,77,10,0.6249,Positive
+12-03-2025 05:05,Intro to Machine Learning,Workshop,EEE,3,"Intro to Machine Learning (Workshop) was could be more interactive, slides were decent.",Medium,87,13,0,Neutral
+29-09-2024 20:20,Product Management Myths,Guest Lecture,MBA,2,"Product Management Myths (Guest Lecture) had issues with wifi, registration.",Low,76,10,0,Neutral
+17-04-2025 22:38,Rhythm & Beats Night,Cultural Fest,ME,4,"Rhythm & Beats Night (Cultural Fest) was very engaging, inspiring.",High,66,10,0.6976,Positive
+10-04-2025 21:41,Cloud & DevOps Fair,Tech Fest,MBA,3,"Cloud & DevOps Fair (Tech Fest) was slides were decent, average experience.",Medium,75,12,0.3182,Positive
+25-01-2025 04:56,Trends in 5G,Seminar,ECE,2,Trends in 5G (Seminar) had issues with air conditioning.,Low,56,9,0,Neutral
+20-02-2025 23:44,Rhythm & Beats Night,Cultural Fest,CE,5,"Rhythm & Beats Night (Cultural Fest) was very engaging, excellent speakers, learnt a lot.",High,89,14,0.7698,Positive
+07-09-2024 00:06,IoT & Robotics Arena,Tech Fest,EEE,3,"IoT & Robotics Arena (Tech Fest) was could be more interactive, average experience.",Medium,83,13,0,Neutral
+14-10-2024 06:02,Campus Problem Solver,Hackathon,CHE,5,"Campus Problem Solver (Hackathon) was excellent speakers, inspiring.",High,68,8,0.5859,Positive
+01-12-2024 23:35,Python for Data Science,Workshop,CSE,4,"Python for Data Science (Workshop) was learnt a lot, very engaging.",High,67,11,0.4005,Positive
+02-12-2024 03:40,UX Research in the Wild,Guest Lecture,ECE,5,"UX Research in the Wild (Guest Lecture) was excellent speakers, well organized, supportive volunteers.",High,102,14,0.7906,Positive
+16-09-2024 20:11,Python for Data Science,Workshop,MBA,5,"Python for Data Science (Workshop) was well organized, inspiring.",High,65,9,0.5994,Positive
+18-11-2024 22:25,Fusion Music Evening,Cultural Fest,IT,5,"Fusion Music Evening (Cultural Fest) was well organized, good pace, interactive sessions.",High,89,12,0.6124,Positive
+03-07-2025 02:51,Web Dev Bootcamp,Workshop,EEE,2,"Web Dev Bootcamp (Workshop) had issues with seating, timing.",Low,60,9,0,Neutral
+31-05-2025 00:15,Cybersecurity Basics,Workshop,EEE,3,"Cybersecurity Basics (Workshop) was topics were fine, slides were decent.",Medium,73,10,0.2023,Positive
+18-07-2025 05:45,FutureTech Showcase,Tech Fest,IT,4,"FutureTech Showcase (Tech Fest) was good pace, learnt a lot.",High,60,10,0.4404,Positive
+25-04-2025 02:02,Cybersecurity Basics,Workshop,CHE,4,"Cybersecurity Basics (Workshop) was good pace, great venue.",High,59,8,0.7906,Positive
+08-03-2025 21:23,FinTech Innovation Sprint,Hackathon,AE,3,"FinTech Innovation Sprint (Hackathon) was timing was manageable, could be more interactive.",Medium,91,12,0.3818,Positive
+21-09-2024 05:42,FutureTech Showcase,Tech Fest,AE,5,"FutureTech Showcase (Tech Fest) was well organized, hands-on and practical.",High,75,10,0.2732,Positive
+27-12-2024 03:27,Stagecraft Theatre,Cultural Fest,AE,4,"Stagecraft Theatre (Cultural Fest) was very engaging, excellent speakers.",High,73,9,0.7698,Positive
+19-02-2025 19:23,Leadership & Teams,Seminar,CSE,4,"Leadership & Teams (Seminar) was useful takeaways, good pace.",High,61,9,0.7003,Positive
+09-06-2025 02:21,Figma for Beginners,Workshop,MBA,4,"Figma for Beginners (Workshop) was useful takeaways, well organized, great venue.",High,81,11,0.8442,Positive
+07-10-2024 17:26,Colours of India,Cultural Fest,BIO,4,"Colours of India (Cultural Fest) was very engaging, inspiring, well organized.",High,78,11,0.7984,Positive
+04-12-2024 05:20,Colours of India,Cultural Fest,CSE,5,"Colours of India (Cultural Fest) was well organized, great venue, useful takeaways.",High,83,12,0.8442,Positive
+21-09-2024 17:21,Design Thinking in Practice,Seminar,ME,3,"Design Thinking in Practice (Seminar) was slides were decent, could be more interactive.",Medium,88,13,0,Neutral
+28-09-2024 22:57,Art & Craft Pop-up,Cultural Fest,ME,4,"Art & Craft Pop-up (Cultural Fest) was clear slides, great venue.",High,65,11,0.7717,Positive
+03-02-2025 19:22,Space Tech & You,Guest Lecture,AE,5,"Space Tech & You (Guest Lecture) was great venue, hands-on and practical.",High,73,12,0.6249,Positive
+20-02-2025 20:54,Space Tech & You,Guest Lecture,BIO,4,"Space Tech & You (Guest Lecture) was very engaging, clear slides, useful takeaways.",High,83,13,0.8162,Positive
+21-11-2024 04:12,Colours of India,Cultural Fest,IT,4,"Colours of India (Cultural Fest) was supportive volunteers, hands-on and practical, very engaging.",High,98,13,0.5984,Positive
+07-09-2024 19:50,The Entrepreneur’s Journey,Guest Lecture,IT,3,"The Entrepreneur’s Journey (Guest Lecture) was slides were decent, timing was manageable.",Medium,89,12,0,Neutral
+08-02-2025 04:16,Leadership & Teams,Seminar,CE,4,"Leadership & Teams (Seminar) was inspiring, very engaging.",High,58,8,0.6697,Positive
+07-10-2024 04:54,Web Dev Bootcamp,Workshop,MBA,2,Web Dev Bootcamp (Workshop) had issues with air conditioning.,Low,61,9,0,Neutral
+04-01-2025 20:27,UX Research in the Wild,Guest Lecture,MBA,3,"UX Research in the Wild (Guest Lecture) was topics were fine, okay overall.",Medium,75,13,0.4019,Positive
+08-03-2025 00:58,AI Ethics in Industry,Guest Lecture,MBA,5,"AI Ethics in Industry (Guest Lecture) was excellent speakers, well organized, interactive sessions.",High,99,13,0.7003,Positive
+02-03-2025 19:05,Smart City Hack,Hackathon,IT,4,"Smart City Hack (Hackathon) was good pace, great venue, clear slides.",High,69,11,0.9062,Positive
+08-09-2024 21:13,Campus Problem Solver,Hackathon,CE,4,"Campus Problem Solver (Hackathon) was inspiring, excellent speakers.",High,68,8,0.5859,Positive
+17-11-2024 23:22,Careers in Data,Seminar,ECE,3,"Careers in Data (Seminar) was okay overall, could be more interactive.",Medium,70,11,0.2263,Positive
+03-07-2025 00:57,AI Ethics in Industry,Guest Lecture,CHE,5,"AI Ethics in Industry (Guest Lecture) was great venue, useful takeaways.",High,72,11,0.7906,Positive
+10-11-2024 17:18,Campus AI Day,Tech Fest,ME,3,"Campus AI Day (Tech Fest) was timing was manageable, topics were fine.",Medium,70,12,0.2023,Positive
+05-01-2025 03:30,Green Energy Futures,Seminar,CE,5,"Green Energy Futures (Seminar) was supportive volunteers, clear slides, interactive sessions.",High,93,11,0.7096,Positive
+11-06-2025 02:05,Green Energy Futures,Seminar,ECE,3,"Green Energy Futures (Seminar) was okay overall, topics were fine.",Medium,66,10,0.5859,Positive
+20-01-2025 03:52,Smart City Hack,Hackathon,CSE,4,"Smart City Hack (Hackathon) was well organized, good pace, excellent speakers.",High,78,11,0.886,Positive
+05-12-2024 19:52,Fusion Music Evening,Cultural Fest,CE,3,"Fusion Music Evening (Cultural Fest) was okay overall, slides were decent.",Medium,74,11,0.2263,Positive
+21-04-2025 01:09,Trends in 5G,Seminar,BIO,4,"Trends in 5G (Seminar) was hands-on and practical, good pace.",High,61,10,0.4404,Positive
+08-03-2025 19:35,Product Management Myths,Guest Lecture,ECE,3,"Product Management Myths (Guest Lecture) was room was adequate, timing was manageable.",Medium,86,12,0.2263,Positive
+05-04-2025 00:28,FinTech Innovation Sprint,Hackathon,ME,2,"FinTech Innovation Sprint (Hackathon) had issues with timing, wifi.",Low,67,9,0.3818,Positive
+14-08-2025 03:18,Web Dev Bootcamp,Workshop,AE,3,"Web Dev Bootcamp (Workshop) was okay overall, average experience.",Medium,65,9,0.2263,Positive
+23-09-2024 00:04,IoT & Robotics Arena,Tech Fest,MBA,5,"IoT & Robotics Arena (Tech Fest) was useful takeaways, learnt a lot, clear slides.",High,82,14,0.6705,Positive
+22-01-2025 18:37,Fusion Music Evening,Cultural Fest,CHE,5,"Fusion Music Evening (Cultural Fest) was useful takeaways, learnt a lot, inspiring.",High,83,12,0.6908,Positive
+18-11-2024 19:25,AI Ethics in Industry,Guest Lecture,CHE,5,"AI Ethics in Industry (Guest Lecture) was excellent speakers, inspiring.",High,72,10,0.7579,Positive
+01-04-2025 21:04,Intro to Machine Learning,Workshop,CSE,2,"Intro to Machine Learning (Workshop) had issues with food, air conditioning.",Low,76,11,0,Neutral
+09-03-2025 01:37,Startup Funding 101,Guest Lecture,AE,5,"Startup Funding 101 (Guest Lecture) was great venue, excellent speakers, interactive sessions.",High,94,12,0.8316,Positive
+17-05-2025 05:38,Stagecraft Theatre,Cultural Fest,EEE,4,"Stagecraft Theatre (Cultural Fest) was well organized, useful takeaways, interactive sessions.",High,94,11,0.6124,Positive
+17-06-2025 05:18,Campus AI Day,Tech Fest,ME,4,"Campus AI Day (Tech Fest) was useful takeaways, supportive volunteers.",High,70,10,0.6249,Positive
+04-01-2025 23:53,Cloud & DevOps Fair,Tech Fest,ECE,4,"Cloud & DevOps Fair (Tech Fest) was clear slides, great venue, good pace.",High,73,13,0.8979,Positive
+10-01-2025 23:21,Campus Problem Solver,Hackathon,AE,1,"Campus Problem Solver (Hackathon) had issues with timing, seating.",Low,66,9,-0.4019,Negative
+08-02-2025 04:27,Dance Mania,Cultural Fest,IT,2,Dance Mania (Cultural Fest) had issues with venue.,Low,50,8,0,Neutral
+24-01-2025 21:29,IoT & Robotics Arena,Tech Fest,BIO,4,"IoT & Robotics Arena (Tech Fest) was great venue, well organized, supportive volunteers.",High,88,13,0.8126,Positive
+02-02-2025 21:58,24hr HealthTech Hack,Hackathon,CE,5,"24hr HealthTech Hack (Hackathon) was hands-on and practical, inspiring.",High,71,9,0.4215,Positive
+19-03-2025 04:43,Campus Problem Solver,Hackathon,ECE,5,"Campus Problem Solver (Hackathon) was inspiring, learnt a lot.",High,62,9,0.0258,Neutral
+24-09-2024 21:57,Stagecraft Theatre,Cultural Fest,CSE,3,"Stagecraft Theatre (Cultural Fest) was timing was manageable, average experience.",Medium,81,10,0,Neutral
+09-06-2025 17:23,Fusion Music Evening,Cultural Fest,ME,3,"Fusion Music Evening (Cultural Fest) was slides were decent, timing was manageable.",Medium,83,12,0,Neutral
+16-09-2024 22:57,Intro to Machine Learning,Workshop,CSE,4,"Intro to Machine Learning (Workshop) was well organized, inspiring.",High,67,9,0.5994,Positive
+05-08-2025 17:27,Web Dev Bootcamp,Workshop,MBA,4,"Web Dev Bootcamp (Workshop) was clear slides, good pace, excellent speakers.",High,76,11,0.8481,Positive
+19-06-2025 01:34,The Future of EVs,Seminar,AE,1,"The Future of EVs (Seminar) had issues with seating, too basic.",Low,63,11,0,Neutral
+07-03-2025 17:22,Green Energy Futures,Seminar,EEE,5,"Green Energy Futures (Seminar) was hands-on and practical, well organized.",High,74,10,0.4939,Positive
+07-01-2025 03:38,Colours of India,Cultural Fest,CE,4,"Colours of India (Cultural Fest) was interactive sessions, learnt a lot.",High,72,11,0,Neutral
+26-06-2025 05:12,Rhythm & Beats Night,Cultural Fest,CSE,5,"Rhythm & Beats Night (Cultural Fest) was very engaging, interactive sessions, supportive volunteers.",High,100,13,0.5984,Positive
+27-03-2025 00:06,Web Dev Bootcamp,Workshop,AE,4,"Web Dev Bootcamp (Workshop) was supportive volunteers, interactive sessions, hands-on and practical.",High,100,12,0.296,Positive
+04-08-2025 02:04,The Future of EVs,Seminar,EEE,4,"The Future of EVs (Seminar) was inspiring, hands-on and practical.",High,66,10,0.4215,Positive
+27-07-2025 22:47,Fusion Music Evening,Cultural Fest,AE,5,"Fusion Music Evening (Cultural Fest) was well organized, clear slides.",High,70,10,0.5719,Positive
+07-08-2025 18:42,The Entrepreneur’s Journey,Guest Lecture,AE,3,"The Entrepreneur’s Journey (Guest Lecture) was could be more interactive, slides were decent.",Medium,93,13,0,Neutral
+24-07-2025 05:09,FutureTech Showcase,Tech Fest,EEE,2,"FutureTech Showcase (Tech Fest) had issues with audio, wifi, air conditioning.",Low,78,11,0,Neutral
+21-09-2024 06:06,Product Management Myths,Guest Lecture,CE,4,"Product Management Myths (Guest Lecture) was clear slides, learnt a lot.",High,72,11,0.3818,Positive
+24-07-2025 00:30,Fusion Music Evening,Cultural Fest,MBA,5,"Fusion Music Evening (Cultural Fest) was supportive volunteers, well organized.",High,79,10,0.5106,Positive
+10-06-2025 20:33,The Future of EVs,Seminar,IT,4,"The Future of EVs (Seminar) was supportive volunteers, well organized, useful takeaways.",High,88,12,0.7351,Positive
+15-07-2025 05:42,UX Research in the Wild,Guest Lecture,CE,3,"UX Research in the Wild (Guest Lecture) was room was adequate, timing was manageable.",Medium,85,14,0.2263,Positive
+03-06-2025 19:30,Product Management Myths,Guest Lecture,CHE,2,"Product Management Myths (Guest Lecture) had issues with seating, air conditioning.",Low,83,11,0,Neutral
+05-08-2025 22:53,Campus AI Day,Tech Fest,ME,4,"Campus AI Day (Tech Fest) was supportive volunteers, clear slides, very engaging.",High,81,12,0.7574,Positive
+26-03-2025 06:08,ByteBlast Coding Games,Tech Fest,MBA,5,"ByteBlast Coding Games (Tech Fest) was supportive volunteers, hands-on and practical.",High,85,11,0.296,Positive
+19-09-2024 03:49,Careers in Data,Seminar,EEE,5,"Careers in Data (Seminar) was inspiring, excellent speakers, supportive volunteers.",High,83,10,0.8271,Positive
+05-08-2025 23:45,Dance Mania,Cultural Fest,ECE,4,"Dance Mania (Cultural Fest) was learnt a lot, clear slides, excellent speakers.",High,79,12,0.743,Positive
+13-02-2025 23:48,The Future of EVs,Seminar,CSE,5,"The Future of EVs (Seminar) was very engaging, learnt a lot.",High,60,11,0.4005,Positive
+09-02-2025 03:23,Smart City Hack,Hackathon,MBA,4,"Smart City Hack (Hackathon) was excellent speakers, inspiring.",High,62,8,0.8481,Positive
+09-01-2025 21:00,Design Thinking in Practice,Seminar,CSE,3,"Design Thinking in Practice (Seminar) was okay overall, topics were fine.",Medium,73,11,0.4019,Positive
+02-04-2025 03:39,Figma for Beginners,Workshop,ME,4,"Figma for Beginners (Workshop) was excellent speakers, very engaging, useful takeaways.",High,87,11,0.8615,Positive
+03-12-2024 04:35,Sustainability Hack Night,Hackathon,BIO,4,"Sustainability Hack Night (Hackathon) was well organized, supportive volunteers, clear slides.",High,94,11,0.7096,Positive
+25-08-2024 03:58,FutureTech Showcase,Tech Fest,CHE,4,"FutureTech Showcase (Tech Fest) was well organized, interactive sessions.",High,73,9,0.2732,Positive
+13-10-2024 23:44,Intro to Machine Learning,Workshop,MBA,3,"Intro to Machine Learning (Workshop) was could be more interactive, average experience.",Medium,87,12,0,Neutral
+18-01-2025 00:58,Stagecraft Theatre,Cultural Fest,ME,5,"Stagecraft Theatre (Cultural Fest) was well organized, hands-on and practical.",High,78,10,0.2732,Positive
+14-02-2025 00:34,Dance Mania,Cultural Fest,CHE,4,"Dance Mania (Cultural Fest) was good pace, interactive sessions, very engaging.",High,79,11,0.6801,Positive
+28-10-2024 20:58,Intro to Machine Learning,Workshop,IT,5,"Intro to Machine Learning (Workshop) was learnt a lot, supportive volunteers.",High,77,11,0.296,Positive
+26-02-2025 04:53,Cloud & DevOps Fair,Tech Fest,CHE,3,"Cloud & DevOps Fair (Tech Fest) was average experience, okay overall.",Medium,69,11,0.4939,Positive
+26-07-2025 18:53,Campus AI Day,Tech Fest,EEE,5,"Campus AI Day (Tech Fest) was useful takeaways, well organized.",High,63,10,0.6124,Positive
+29-05-2025 21:42,InnovateX Tech Expo,Tech Fest,ECE,5,"InnovateX Tech Expo (Tech Fest) was inspiring, good pace, excellent speakers.",High,77,11,0.8555,Positive
+26-07-2025 18:54,Startup Funding 101,Guest Lecture,CE,4,"Startup Funding 101 (Guest Lecture) was hands-on and practical, good pace.",High,74,11,0.4404,Positive
+15-10-2024 01:58,Stagecraft Theatre,Cultural Fest,AE,2,"Stagecraft Theatre (Cultural Fest) had issues with projector, seating, venue.",Low,77,10,0,Neutral
+02-12-2024 02:24,Rhythm & Beats Night,Cultural Fest,EEE,4,"Rhythm & Beats Night (Cultural Fest) was excellent speakers, inspiring.",High,71,10,0.7579,Positive
+19-03-2025 21:22,Leadership & Teams,Seminar,CE,3,"Leadership & Teams (Seminar) was could be more interactive, room was adequate.",Medium,78,12,0.2263,Positive
+25-04-2025 22:27,Cloud & DevOps Fair,Tech Fest,BIO,3,"Cloud & DevOps Fair (Tech Fest) was average experience, room was adequate.",Medium,74,12,0.4939,Positive
+01-05-2025 19:17,InnovateX Tech Expo,Tech Fest,ECE,5,"InnovateX Tech Expo (Tech Fest) was useful takeaways, interactive sessions.",High,75,10,0.4404,Positive
+20-01-2025 21:41,Rhythm & Beats Night,Cultural Fest,ECE,5,"Rhythm & Beats Night (Cultural Fest) was interactive sessions, learnt a lot, inspiring.",High,87,13,0.4215,Positive
+23-02-2025 05:55,InnovateX Tech Expo,Tech Fest,ME,2,InnovateX Tech Expo (Tech Fest) had issues with wifi.,Low,53,9,0,Neutral
+01-11-2024 03:53,The Future of EVs,Seminar,ECE,4,"The Future of EVs (Seminar) was well organized, supportive volunteers.",High,70,10,0.5106,Positive
+28-02-2025 22:23,Web Dev Bootcamp,Workshop,MBA,4,"Web Dev Bootcamp (Workshop) was useful takeaways, hands-on and practical, excellent speakers.",High,93,12,0.765,Positive
+26-03-2025 04:08,Campus AI Day,Tech Fest,IT,5,"Campus AI Day (Tech Fest) was hands-on and practical, good pace, inspiring.",High,75,12,0.6908,Positive
+24-03-2025 02:42,Python for Data Science,Workshop,ME,5,"Python for Data Science (Workshop) was very engaging, excellent speakers.",High,73,10,0.7698,Positive
+22-02-2025 02:13,Art & Craft Pop-up,Cultural Fest,BIO,5,"Art & Craft Pop-up (Cultural Fest) was useful takeaways, good pace.",High,67,11,0.7003,Positive
+04-04-2025 17:16,UX Research in the Wild,Guest Lecture,ME,5,"UX Research in the Wild (Guest Lecture) was inspiring, excellent speakers, good pace.",High,85,13,0.8555,Positive
+05-08-2025 02:01,Design Thinking in Practice,Seminar,MBA,1,Design Thinking in Practice (Seminar) had issues with projector.,Low,64,9,0,Neutral
+12-02-2025 01:45,The Entrepreneur’s Journey,Guest Lecture,AE,3,"The Entrepreneur’s Journey (Guest Lecture) was average experience, room was adequate.",Medium,85,11,0.2263,Positive
+27-07-2025 04:27,UX Research in the Wild,Guest Lecture,AE,3,"UX Research in the Wild (Guest Lecture) was okay overall, topics were fine.",Medium,75,13,0.4019,Positive
+18-09-2024 17:53,FinTech Innovation Sprint,Hackathon,IT,5,"FinTech Innovation Sprint (Hackathon) was clear slides, useful takeaways.",High,73,9,0.7964,Positive
+02-02-2025 20:33,Figma for Beginners,Workshop,BIO,4,"Figma for Beginners (Workshop) was very engaging, excellent speakers, inspiring.",High,80,10,0.8581,Positive
+17-07-2025 23:37,Trends in 5G,Seminar,CHE,3,"Trends in 5G (Seminar) was average experience, timing was manageable.",Medium,69,10,0,Neutral
+05-05-2025 00:32,Python for Data Science,Workshop,BIO,4,"Python for Data Science (Workshop) was useful takeaways, inspiring, excellent speakers.",High,87,11,0.8555,Positive
+21-03-2025 17:47,Campus AI Day,Tech Fest,CSE,2,Campus AI Day (Tech Fest) had issues with venue.,Low,48,9,0,Neutral
+24-07-2025 03:41,Rhythm & Beats Night,Cultural Fest,ECE,4,"Rhythm & Beats Night (Cultural Fest) was clear slides, supportive volunteers, learnt a lot.",High,91,14,0.5859,Positive
+05-06-2025 05:51,Careers in Data,Seminar,CSE,5,"Careers in Data (Seminar) was inspiring, great venue.",High,53,8,0.7845,Positive
+23-08-2024 22:34,Fusion Music Evening,Cultural Fest,MBA,4,"Fusion Music Evening (Cultural Fest) was excellent speakers, supportive volunteers, learnt a lot.",High,97,13,0.7096,Positive
+15-11-2024 00:20,Product Management Myths,Guest Lecture,CHE,5,"Product Management Myths (Guest Lecture) was supportive volunteers, excellent speakers, well organized.",High,103,12,0.7906,Positive
+30-11-2024 20:19,UX Research in the Wild,Guest Lecture,IT,4,"UX Research in the Wild (Guest Lecture) was hands-on and practical, useful takeaways.",High,85,13,0.4404,Positive
+11-02-2025 19:00,Smart City Hack,Hackathon,BIO,3,"Smart City Hack (Hackathon) was slides were decent, average experience.",Medium,71,10,0.4019,Positive
+26-07-2025 02:44,24hr HealthTech Hack,Hackathon,AE,4,"24hr HealthTech Hack (Hackathon) was inspiring, supportive volunteers.",High,70,8,0.6124,Positive
+16-09-2024 02:11,Power BI Essentials,Workshop,CSE,3,"Power BI Essentials (Workshop) was timing was manageable, room was adequate.",Medium,76,11,0.2263,Positive
+19-11-2024 05:04,Campus Problem Solver,Hackathon,BIO,4,"Campus Problem Solver (Hackathon) was supportive volunteers, useful takeaways.",High,78,9,0.34,Positive
+30-06-2025 05:00,Python for Data Science,Workshop,IT,4,"Python for Data Science (Workshop) was clear slides, good pace, interactive sessions.",High,85,12,0.6705,Positive
+31-10-2024 23:50,Web Dev Bootcamp,Workshop,IT,5,"Web Dev Bootcamp (Workshop) was hands-on and practical, inspiring, very engaging.",High,81,11,0.6697,Positive
+02-06-2025 03:25,UX Research in the Wild,Guest Lecture,CHE,5,"UX Research in the Wild (Guest Lecture) was supportive volunteers, clear slides, great venue.",High,93,14,0.836,Positive
+20-07-2025 19:44,Intro to Machine Learning,Workshop,AE,5,"Intro to Machine Learning (Workshop) was interactive sessions, great venue, very engaging.",High,90,12,0.7778,Positive
+25-04-2025 02:48,Art & Craft Pop-up,Cultural Fest,MBA,5,"Art & Craft Pop-up (Cultural Fest) was great venue, clear slides.",High,65,11,0.7717,Positive
+15-10-2024 17:36,UX Research in the Wild,Guest Lecture,IT,4,"UX Research in the Wild (Guest Lecture) was good pace, well organized, clear slides.",High,84,14,0.765,Positive
+16-01-2025 03:28,Python for Data Science,Workshop,CSE,4,"Python for Data Science (Workshop) was hands-on and practical, very engaging.",High,77,11,0.4005,Positive
+22-02-2025 00:18,Python for Data Science,Workshop,EEE,5,"Python for Data Science (Workshop) was clear slides, well organized.",High,68,10,0.5719,Positive
+20-07-2025 01:36,Art & Craft Pop-up,Cultural Fest,CHE,3,"Art & Craft Pop-up (Cultural Fest) was slides were decent, average experience.",Medium,78,12,0,Neutral
+24-03-2025 05:55,Figma for Beginners,Workshop,EEE,4,"Figma for Beginners (Workshop) was good pace, supportive volunteers.",High,68,9,0.6249,Positive
+04-12-2024 03:07,Leadership & Teams,Seminar,CSE,5,"Leadership & Teams (Seminar) was supportive volunteers, hands-on and practical.",High,79,10,0.296,Positive
+20-01-2025 00:23,Smart City Hack,Hackathon,MBA,4,"Smart City Hack (Hackathon) was supportive volunteers, learnt a lot.",High,68,10,0.5994,Positive
+12-05-2025 18:36,AI Ethics in Industry,Guest Lecture,ME,3,"AI Ethics in Industry (Guest Lecture) was average experience, room was adequate.",Medium,80,12,0.2263,Positive
+30-12-2024 17:33,Campus AI Day,Tech Fest,EEE,4,"Campus AI Day (Tech Fest) was very engaging, supportive volunteers, useful takeaways.",High,85,12,0.7947,Positive
+23-06-2025 18:01,Smart City Hack,Hackathon,CSE,2,Smart City Hack (Hackathon) had issues with audio.,Low,50,8,0.4019,Positive
+30-05-2025 22:16,The Entrepreneur’s Journey,Guest Lecture,EEE,3,"The Entrepreneur’s Journey (Guest Lecture) was topics were fine, timing was manageable.",Medium,87,12,0.2023,Positive
+26-09-2024 05:44,Product Management Myths,Guest Lecture,CHE,4,"Product Management Myths (Guest Lecture) was very engaging, clear slides.",High,73,10,0.6779,Positive
+08-10-2024 22:26,Power BI Essentials,Workshop,CHE,3,"Power BI Essentials (Workshop) was timing was manageable, topics were fine.",Medium,75,11,0.2023,Positive
+05-07-2025 01:42,Cybersecurity Basics,Workshop,MBA,4,"Cybersecurity Basics (Workshop) was great venue, hands-on and practical, learnt a lot.",High,86,12,0.6249,Positive
+07-04-2025 21:09,Art & Craft Pop-up,Cultural Fest,CSE,4,"Art & Craft Pop-up (Cultural Fest) was interactive sessions, great venue.",High,73,11,0.6249,Positive
+06-08-2025 22:36,The Entrepreneur’s Journey,Guest Lecture,AE,2,The Entrepreneur’s Journey (Guest Lecture) had issues with timing.,Low,66,9,0,Neutral
+13-05-2025 05:44,Campus AI Day,Tech Fest,EEE,5,"Campus AI Day (Tech Fest) was well organized, clear slides, great venue.",High,72,12,0.8316,Positive
+03-02-2025 01:17,Sustainability Hack Night,Hackathon,CSE,1,"Sustainability Hack Night (Hackathon) had issues with air conditioning, registration.",Low,85,10,0,Neutral
+08-12-2024 03:52,ByteBlast Coding Games,Tech Fest,CHE,5,"ByteBlast Coding Games (Tech Fest) was interactive sessions, excellent speakers.",High,80,10,0.5719,Positive
+25-05-2025 05:08,Cybersecurity Basics,Workshop,IT,2,Cybersecurity Basics (Workshop) had issues with registration.,Low,61,7,0,Neutral
+07-02-2025 17:17,Space Tech & You,Guest Lecture,ECE,4,"Space Tech & You (Guest Lecture) was well organized, inspiring.",High,63,10,0.5994,Positive
+03-06-2025 18:48,InnovateX Tech Expo,Tech Fest,ME,3,"InnovateX Tech Expo (Tech Fest) was slides were decent, could be more interactive.",Medium,82,13,0,Neutral
+31-03-2025 22:13,Web Dev Bootcamp,Workshop,IT,5,"Web Dev Bootcamp (Workshop) was inspiring, interactive sessions, good pace.",High,75,10,0.6908,Positive
+24-09-2024 05:59,24hr HealthTech Hack,Hackathon,CHE,5,"24hr HealthTech Hack (Hackathon) was interactive sessions, useful takeaways.",High,76,9,0.4404,Positive
+08-08-2025 21:50,Rhythm & Beats Night,Cultural Fest,ECE,5,"Rhythm & Beats Night (Cultural Fest) was clear slides, excellent speakers, hands-on and practical.",High,98,14,0.743,Positive
+21-04-2025 19:46,FutureTech Showcase,Tech Fest,BIO,4,"FutureTech Showcase (Tech Fest) was good pace, interactive sessions, well organized.",High,84,11,0.6124,Positive
+04-08-2025 06:07,Intro to Machine Learning,Workshop,IT,4,"Intro to Machine Learning (Workshop) was interactive sessions, very engaging, hands-on and practical.",High,101,13,0.4005,Positive
+02-11-2024 18:14,UX Research in the Wild,Guest Lecture,MBA,4,"UX Research in the Wild (Guest Lecture) was clear slides, supportive volunteers.",High,80,12,0.5859,Positive
+25-01-2025 20:59,Cloud & DevOps Fair,Tech Fest,AE,4,"Cloud & DevOps Fair (Tech Fest) was clear slides, supportive volunteers, excellent speakers.",High,92,13,0.8689,Positive
+11-05-2025 19:22,UX Research in the Wild,Guest Lecture,MBA,4,"UX Research in the Wild (Guest Lecture) was good pace, interactive sessions.",High,76,12,0.4404,Positive
+29-11-2024 18:23,Intro to Machine Learning,Workshop,AE,3,"Intro to Machine Learning (Workshop) was slides were decent, could be more interactive.",Medium,87,13,0,Neutral
+16-04-2025 03:47,The Entrepreneur’s Journey,Guest Lecture,CSE,3,"The Entrepreneur’s Journey (Guest Lecture) was slides were decent, timing was manageable.",Medium,89,12,0,Neutral
+28-04-2025 22:34,FutureTech Showcase,Tech Fest,ECE,4,"FutureTech Showcase (Tech Fest) was excellent speakers, learnt a lot, useful takeaways.",High,87,12,0.765,Positive
+26-09-2024 20:32,Cybersecurity Basics,Workshop,CE,4,"Cybersecurity Basics (Workshop) was hands-on and practical, useful takeaways.",High,77,9,0.4404,Positive
+08-06-2025 02:35,Sustainability Hack Night,Hackathon,MBA,5,"Sustainability Hack Night (Hackathon) was supportive volunteers, useful takeaways, very engaging.",High,97,11,0.7778,Positive
+27-12-2024 05:26,The Future of EVs,Seminar,ME,1,The Future of EVs (Seminar) had issues with audio.,Low,50,9,0,Neutral
+25-04-2025 00:40,UX Research in the Wild,Guest Lecture,IT,5,"UX Research in the Wild (Guest Lecture) was great venue, very engaging, supportive volunteers.",High,94,14,0.8508,Positive
+20-11-2024 03:50,Careers in Data,Seminar,BIO,3,"Careers in Data (Seminar) was timing was manageable, okay overall.",Medium,66,10,0.2263,Positive
+29-09-2024 18:06,FutureTech Showcase,Tech Fest,ME,2,"FutureTech Showcase (Tech Fest) had issues with registration, wifi, food.",Low,73,10,0,Neutral
+31-05-2025 21:46,Art & Craft Pop-up,Cultural Fest,CSE,4,"Art & Craft Pop-up (Cultural Fest) was useful takeaways, learnt a lot, well organized.",High,86,14,0.6124,Positive
+15-12-2024 05:49,Fusion Music Evening,Cultural Fest,ME,3,"Fusion Music Evening (Cultural Fest) was could be more interactive, topics were fine.",Medium,85,13,0.2023,Positive
+07-10-2024 23:35,Product Management Myths,Guest Lecture,ME,2,"Product Management Myths (Guest Lecture) had issues with too advanced, projector.",Low,81,11,0.25,Positive
+07-04-2025 19:23,Rhythm & Beats Night,Cultural Fest,CE,4,"Rhythm & Beats Night (Cultural Fest) was clear slides, very engaging.",High,69,11,0.6478,Positive
+28-04-2025 20:16,Dance Mania,Cultural Fest,ME,4,"Dance Mania (Cultural Fest) was great venue, well organized, learnt a lot.",High,74,12,0.7351,Positive
+06-12-2024 02:10,Careers in Data,Seminar,CE,3,"Careers in Data (Seminar) was okay overall, room was adequate.",Medium,62,10,0.4215,Positive
+20-07-2025 22:18,The Future of EVs,Seminar,BIO,2,"The Future of EVs (Seminar) had issues with timing, projector.",Low,62,10,0,Neutral
+09-06-2025 19:36,The Entrepreneur’s Journey,Guest Lecture,EEE,2,"The Entrepreneur’s Journey (Guest Lecture) had issues with wifi, crowd, too advanced.",Low,85,12,0.25,Positive
+02-03-2025 20:45,Space Tech & You,Guest Lecture,MBA,5,"Space Tech & You (Guest Lecture) was clear slides, hands-on and practical.",High,74,12,0.3818,Positive
+05-05-2025 19:40,FinTech Innovation Sprint,Hackathon,MBA,5,"FinTech Innovation Sprint (Hackathon) was inspiring, useful takeaways, well organized.",High,86,10,0.8555,Positive
+12-01-2025 20:21,Intro to Machine Learning,Workshop,ECE,3,"Intro to Machine Learning (Workshop) was timing was manageable, room was adequate.",Medium,82,12,0.2263,Positive
+23-03-2025 05:33,Intro to Machine Learning,Workshop,MBA,5,"Intro to Machine Learning (Workshop) was interactive sessions, learnt a lot.",High,76,11,0,Neutral
+24-04-2025 20:49,AI Ethics in Industry,Guest Lecture,BIO,3,"AI Ethics in Industry (Guest Lecture) was room was adequate, topics were fine.",Medium,78,13,0.4019,Positive
+13-09-2024 19:48,Cybersecurity Basics,Workshop,IT,3,"Cybersecurity Basics (Workshop) was okay overall, average experience.",Medium,69,8,0.2263,Positive
+19-09-2024 19:28,Colours of India,Cultural Fest,ME,4,"Colours of India (Cultural Fest) was useful takeaways, very engaging.",High,69,10,0.6801,Positive
+14-01-2025 18:25,Figma for Beginners,Workshop,IT,5,"Figma for Beginners (Workshop) was supportive volunteers, interactive sessions.",High,79,9,0.296,Positive
+25-06-2025 20:02,Campus Problem Solver,Hackathon,BIO,4,"Campus Problem Solver (Hackathon) was very engaging, learnt a lot, good pace.",High,77,12,0.4391,Positive
+12-04-2025 02:49,Colours of India,Cultural Fest,AE,4,"Colours of India (Cultural Fest) was very engaging, interactive sessions, great venue.",High,86,12,0.7778,Positive
+04-12-2024 02:07,ByteBlast Coding Games,Tech Fest,IT,5,"ByteBlast Coding Games (Tech Fest) was very engaging, excellent speakers, well organized.",High,89,12,0.8304,Positive
+21-11-2024 01:09,Art & Craft Pop-up,Cultural Fest,IT,5,"Art & Craft Pop-up (Cultural Fest) was useful takeaways, excellent speakers.",High,76,11,0.765,Positive
+25-07-2025 20:09,Dance Mania,Cultural Fest,CSE,4,"Dance Mania (Cultural Fest) was excellent speakers, inspiring.",High,62,8,0.7579,Positive
+14-09-2024 04:45,Dance Mania,Cultural Fest,CSE,4,"Dance Mania (Cultural Fest) was clear slides, good pace, great venue.",High,69,11,0.8625,Positive
+11-10-2024 23:20,Smart City Hack,Hackathon,BIO,4,"Smart City Hack (Hackathon) was great venue, useful takeaways, interactive sessions.",High,84,11,0.8658,Positive
+27-05-2025 23:28,The Future of EVs,Seminar,CE,5,"The Future of EVs (Seminar) was hands-on and practical, useful takeaways.",High,73,11,0.4404,Positive
+22-10-2024 01:12,Python for Data Science,Workshop,CSE,3,"Python for Data Science (Workshop) was timing was manageable, slides were decent.",Medium,81,12,0,Neutral
+15-10-2024 19:39,Smart City Hack,Hackathon,MBA,3,"Smart City Hack (Hackathon) was topics were fine, could be more interactive.",Medium,76,12,0.5423,Positive
+26-02-2025 02:29,The Entrepreneur’s Journey,Guest Lecture,EEE,4,"The Entrepreneur’s Journey (Guest Lecture) was clear slides, good pace, useful takeaways.",High,89,12,0.8126,Positive
+21-11-2024 22:47,Space Tech & You,Guest Lecture,CE,4,"Space Tech & You (Guest Lecture) was clear slides, supportive volunteers, inspiring.",High,84,12,0.765,Positive
+14-03-2025 04:20,Fusion Music Evening,Cultural Fest,EEE,1,"Fusion Music Evening (Cultural Fest) had issues with crowd, audio.",Low,66,10,0,Neutral
+10-12-2024 01:37,AI Ethics in Industry,Guest Lecture,CE,5,"AI Ethics in Industry (Guest Lecture) was supportive volunteers, very engaging, excellent speakers.",High,99,13,0.8347,Positive
+17-09-2024 19:36,Leadership & Teams,Seminar,AE,3,"Leadership & Teams (Seminar) was room was adequate, slides were decent.",Medium,71,11,0.2263,Positive
+25-06-2025 23:17,AI Ethics in Industry,Guest Lecture,ECE,2,AI Ethics in Industry (Guest Lecture) had issues with too basic.,Low,64,11,0,Neutral
+06-03-2025 23:51,FutureTech Showcase,Tech Fest,CE,5,"FutureTech Showcase (Tech Fest) was excellent speakers, useful takeaways, well organized.",High,89,11,0.8271,Positive
+21-09-2024 06:04,The Entrepreneur’s Journey,Guest Lecture,EEE,3,"The Entrepreneur’s Journey (Guest Lecture) was room was adequate, timing was manageable.",Medium,88,12,0.2263,Positive
+15-01-2025 20:14,Cybersecurity Basics,Workshop,BIO,5,"Cybersecurity Basics (Workshop) was well organized, learnt a lot, clear slides.",High,79,11,0.5719,Positive
+02-08-2025 17:35,Dance Mania,Cultural Fest,CHE,5,"Dance Mania (Cultural Fest) was useful takeaways, very engaging.",High,64,9,0.6801,Positive
+14-03-2025 22:54,Cybersecurity Basics,Workshop,CSE,4,"Cybersecurity Basics (Workshop) was excellent speakers, hands-on and practical.",High,79,9,0.5719,Positive
+17-08-2025 19:10,Sustainability Hack Night,Hackathon,AE,5,"Sustainability Hack Night (Hackathon) was clear slides, well organized.",High,71,9,0.5719,Positive
+28-06-2025 20:41,Cloud & DevOps Fair,Tech Fest,EEE,5,"Cloud & DevOps Fair (Tech Fest) was great venue, hands-on and practical, learnt a lot.",High,86,15,0.7506,Positive
+16-10-2024 01:16,Campus Problem Solver,Hackathon,CSE,5,"Campus Problem Solver (Hackathon) was very engaging, good pace, clear slides.",High,77,11,0.6976,Positive
+01-01-2025 02:04,Stagecraft Theatre,Cultural Fest,MBA,3,"Stagecraft Theatre (Cultural Fest) was okay overall, timing was manageable.",Medium,75,10,0.2263,Positive
+12-02-2025 05:41,Stagecraft Theatre,Cultural Fest,BIO,4,"Stagecraft Theatre (Cultural Fest) was useful takeaways, inspiring, learnt a lot.",High,81,11,0.6908,Positive
+01-01-2025 18:36,Space Tech & You,Guest Lecture,AE,5,"Space Tech & You (Guest Lecture) was inspiring, excellent speakers.",High,67,10,0.7579,Positive
+21-03-2025 22:45,Startup Funding 101,Guest Lecture,CE,3,"Startup Funding 101 (Guest Lecture) was slides were decent, could be more interactive.",Medium,86,13,0,Neutral
+15-03-2025 03:59,Rhythm & Beats Night,Cultural Fest,EEE,5,"Rhythm & Beats Night (Cultural Fest) was hands-on and practical, excellent speakers.",High,84,12,0.5719,Positive
+19-02-2025 21:09,Trends in 5G,Seminar,CHE,5,"Trends in 5G (Seminar) was inspiring, great venue.",High,50,8,0.7845,Positive
+21-12-2024 04:27,Stagecraft Theatre,Cultural Fest,ME,4,"Stagecraft Theatre (Cultural Fest) was inspiring, learnt a lot.",High,63,9,0.4215,Positive
+20-02-2025 20:01,Green Energy Futures,Seminar,CE,4,"Green Energy Futures (Seminar) was learnt a lot, useful takeaways.",High,66,10,0.6124,Positive
+13-09-2024 00:35,InnovateX Tech Expo,Tech Fest,ECE,5,"InnovateX Tech Expo (Tech Fest) was useful takeaways, well organized, clear slides.",High,83,12,0.765,Positive
+12-01-2025 23:26,Stagecraft Theatre,Cultural Fest,BIO,4,"Stagecraft Theatre (Cultural Fest) was inspiring, very engaging, clear slides.",High,78,10,0.8111,Positive
+06-05-2025 22:37,Colours of India,Cultural Fest,CSE,5,"Colours of India (Cultural Fest) was inspiring, clear slides, well organized.",High,77,11,0.7579,Positive
+14-04-2025 22:56,Startup Funding 101,Guest Lecture,BIO,5,"Startup Funding 101 (Guest Lecture) was supportive volunteers, clear slides.",High,76,10,0.5859,Positive
+24-02-2025 03:07,InnovateX Tech Expo,Tech Fest,CE,5,"InnovateX Tech Expo (Tech Fest) was useful takeaways, excellent speakers, great venue.",High,86,12,0.8934,Positive
+01-07-2025 22:35,Green Energy Futures,Seminar,CHE,4,"Green Energy Futures (Seminar) was learnt a lot, hands-on and practical, inspiring.",High,83,12,0.5994,Positive
+24-02-2025 23:29,Power BI Essentials,Workshop,IT,4,"Power BI Essentials (Workshop) was good pace, great venue.",High,58,9,0.7906,Positive
+17-12-2024 18:58,Smart City Hack,Hackathon,AE,4,"Smart City Hack (Hackathon) was useful takeaways, interactive sessions.",High,71,9,0.6808,Positive
+05-11-2024 05:59,Green Energy Futures,Seminar,CHE,2,"Green Energy Futures (Seminar) had issues with venue, registration.",Low,67,9,0.2732,Positive
+30-10-2024 03:45,Power BI Essentials,Workshop,CSE,4,"Power BI Essentials (Workshop) was good pace, inspiring.",High,56,8,0.6908,Positive
+22-01-2025 21:47,Art & Craft Pop-up,Cultural Fest,MBA,3,"Art & Craft Pop-up (Cultural Fest) was slides were decent, topics were fine.",Medium,76,13,0.2023,Positive
+13-11-2024 17:25,Rhythm & Beats Night,Cultural Fest,IT,3,"Rhythm & Beats Night (Cultural Fest) was okay overall, room was adequate.",Medium,73,12,0.4215,Positive
+22-02-2025 22:47,The Future of EVs,Seminar,ECE,4,"The Future of EVs (Seminar) was supportive volunteers, great venue, hands-on and practical.",High,91,13,0.743,Positive
+18-02-2025 03:50,Stagecraft Theatre,Cultural Fest,MBA,4,"Stagecraft Theatre (Cultural Fest) was good pace, excellent speakers.",High,69,9,0.765,Positive
+24-05-2025 20:01,Figma for Beginners,Workshop,AE,3,"Figma for Beginners (Workshop) was room was adequate, slides were decent.",Medium,73,11,0.2263,Positive
+06-03-2025 02:30,Careers in Data,Seminar,MBA,4,"Careers in Data (Seminar) was supportive volunteers, inspiring, excellent speakers.",High,83,10,0.8271,Positive
+11-06-2025 00:06,Smart City Hack,Hackathon,ME,5,"Smart City Hack (Hackathon) was good pace, interactive sessions, useful takeaways.",High,82,11,0.8176,Positive
+22-07-2025 21:57,InnovateX Tech Expo,Tech Fest,ME,4,"InnovateX Tech Expo (Tech Fest) was learnt a lot, great venue, interactive sessions.",High,84,13,0.6249,Positive
+24-02-2025 04:49,Leadership & Teams,Seminar,IT,3,"Leadership & Teams (Seminar) was could be more interactive, topics were fine.",Medium,77,12,0.2023,Positive
+26-10-2024 04:27,Fusion Music Evening,Cultural Fest,IT,4,"Fusion Music Evening (Cultural Fest) was very engaging, well organized.",High,71,10,0.6214,Positive
+13-10-2024 18:16,Product Management Myths,Guest Lecture,ECE,4,"Product Management Myths (Guest Lecture) was very engaging, good pace.",High,70,10,0.707,Positive
+18-05-2025 05:17,Campus Problem Solver,Hackathon,CSE,3,"Campus Problem Solver (Hackathon) was okay overall, topics were fine.",Medium,69,10,0,Neutral
+09-03-2025 21:26,FutureTech Showcase,Tech Fest,AE,4,"FutureTech Showcase (Tech Fest) was excellent speakers, interactive sessions.",High,77,9,0.5719,Positive
+18-05-2025 19:13,Cybersecurity Basics,Workshop,EEE,4,"Cybersecurity Basics (Workshop) was interactive sessions, very engaging, supportive volunteers.",High,95,10,0.6335,Positive
+09-01-2025 01:40,IoT & Robotics Arena,Tech Fest,MBA,4,"IoT & Robotics Arena (Tech Fest) was inspiring, supportive volunteers, clear slides.",High,84,12,0.765,Positive
+13-04-2025 03:59,Cybersecurity Basics,Workshop,CHE,4,"Cybersecurity Basics (Workshop) was useful takeaways, supportive volunteers.",High,76,8,0.6249,Positive
+17-12-2024 05:17,The Entrepreneur’s Journey,Guest Lecture,IT,5,"The Entrepreneur’s Journey (Guest Lecture) was great venue, inspiring, clear slides.",High,84,11,0.8591,Positive
+27-08-2024 17:45,FinTech Innovation Sprint,Hackathon,MBA,4,"FinTech Innovation Sprint (Hackathon) was hands-on and practical, very engaging, supportive volunteers.",High,103,12,0.7764,Positive
+23-04-2025 21:12,Web Dev Bootcamp,Workshop,EEE,5,"Web Dev Bootcamp (Workshop) was clear slides, well organized, inspiring.",High,72,10,0.7579,Positive
+29-05-2025 22:24,FinTech Innovation Sprint,Hackathon,AE,3,"FinTech Innovation Sprint (Hackathon) was average experience, okay overall.",Medium,75,9,0.5423,Positive
+03-03-2025 20:28,Campus Problem Solver,Hackathon,IT,4,"Campus Problem Solver (Hackathon) was learnt a lot, very engaging, good pace.",High,77,12,0.489,Positive
+06-01-2025 23:24,Campus AI Day,Tech Fest,CE,4,"Campus AI Day (Tech Fest) was hands-on and practical, interactive sessions, clear slides.",High,89,13,0.3818,Positive
+05-07-2025 00:29,ByteBlast Coding Games,Tech Fest,ME,5,"ByteBlast Coding Games (Tech Fest) was excellent speakers, interactive sessions, inspiring.",High,91,11,0.7579,Positive
+07-11-2024 17:46,The Entrepreneur’s Journey,Guest Lecture,BIO,5,"The Entrepreneur’s Journey (Guest Lecture) was great venue, well organized.",High,75,10,0.7351,Positive
+26-08-2024 20:17,ByteBlast Coding Games,Tech Fest,ECE,4,"ByteBlast Coding Games (Tech Fest) was hands-on and practical, very engaging, inspiring.",High,88,12,0.6976,Positive
+29-01-2025 06:03,Python for Data Science,Workshop,BIO,4,"Python for Data Science (Workshop) was great venue, good pace.",High,62,10,0.7906,Positive
+04-11-2024 17:29,FinTech Innovation Sprint,Hackathon,BIO,2,"FinTech Innovation Sprint (Hackathon) had issues with timing, audio, food.",Low,74,10,0.3818,Positive
+05-03-2025 17:19,24hr HealthTech Hack,Hackathon,CHE,4,"24hr HealthTech Hack (Hackathon) was very engaging, learnt a lot, hands-on and practical.",High,89,13,0.4005,Positive
+27-12-2024 04:14,Startup Funding 101,Guest Lecture,IT,3,"Startup Funding 101 (Guest Lecture) was slides were decent, topics were fine.",Medium,77,12,0.2023,Positive
+05-08-2025 22:11,Power BI Essentials,Workshop,ECE,4,"Power BI Essentials (Workshop) was inspiring, good pace.",High,56,8,0.6908,Positive
+15-05-2025 18:28,Green Energy Futures,Seminar,CSE,3,"Green Energy Futures (Seminar) was room was adequate, timing was manageable.",Medium,76,11,0.4588,Positive
+29-07-2025 20:19,FinTech Innovation Sprint,Hackathon,CE,3,"FinTech Innovation Sprint (Hackathon) was could be more interactive, okay overall.",Medium,82,11,0.5829,Positive
+11-01-2025 02:19,Cybersecurity Basics,Workshop,IT,2,"Cybersecurity Basics (Workshop) had issues with timing, seating.",Low,64,8,0,Neutral
+10-08-2025 02:21,Smart City Hack,Hackathon,CSE,5,"Smart City Hack (Hackathon) was useful takeaways, inspiring.",High,60,8,0.8126,Positive
+08-10-2024 03:51,Trends in 5G,Seminar,CE,1,Trends in 5G (Seminar) had issues with too basic.,Low,49,9,0,Neutral
+18-07-2025 19:56,Design Thinking in Practice,Seminar,CSE,2,Design Thinking in Practice (Seminar) had issues with audio.,Low,60,9,0,Neutral
+19-07-2025 05:34,Rhythm & Beats Night,Cultural Fest,ME,4,"Rhythm & Beats Night (Cultural Fest) was learnt a lot, great venue, clear slides.",High,81,14,0.7717,Positive
+12-09-2024 00:57,Smart City Hack,Hackathon,CSE,5,"Smart City Hack (Hackathon) was great venue, very engaging, hands-on and practical.",High,83,12,0.8588,Positive
+27-05-2025 22:32,Campus Problem Solver,Hackathon,EEE,4,"Campus Problem Solver (Hackathon) was learnt a lot, useful takeaways, very engaging.",High,84,12,0.4391,Positive
+10-11-2024 00:30,Space Tech & You,Guest Lecture,EEE,4,"Space Tech & You (Guest Lecture) was excellent speakers, clear slides.",High,70,11,0.743,Positive
+08-05-2025 23:58,Leadership & Teams,Seminar,MBA,1,"Leadership & Teams (Seminar) had issues with timing, air conditioning.",Low,70,10,0,Neutral
+24-09-2024 03:46,Python for Data Science,Workshop,AE,4,"Python for Data Science (Workshop) was useful takeaways, learnt a lot, great venue.",High,83,13,0.7906,Positive
+13-01-2025 22:38,Smart City Hack,Hackathon,CHE,4,"Smart City Hack (Hackathon) was clear slides, very engaging, useful takeaways.",High,78,11,0.8799,Positive
+25-07-2025 18:14,Product Management Myths,Guest Lecture,ECE,1,Product Management Myths (Guest Lecture) had issues with too advanced.,Low,70,10,0.25,Positive
+28-11-2024 18:14,Intro to Machine Learning,Workshop,CSE,5,"Intro to Machine Learning (Workshop) was excellent speakers, inspiring.",High,71,9,0.7579,Positive
+31-12-2024 17:35,Art & Craft Pop-up,Cultural Fest,IT,5,"Art & Craft Pop-up (Cultural Fest) was clear slides, useful takeaways, interactive sessions.",High,92,13,0.6705,Positive
+24-07-2025 01:11,Figma for Beginners,Workshop,ECE,3,"Figma for Beginners (Workshop) was okay overall, average experience.",Medium,68,9,0.2263,Positive
+21-09-2024 02:29,Campus AI Day,Tech Fest,CSE,5,"Campus AI Day (Tech Fest) was clear slides, good pace, great venue.",High,67,12,0.8625,Positive
+10-10-2024 18:58,Rhythm & Beats Night,Cultural Fest,ECE,4,"Rhythm & Beats Night (Cultural Fest) was excellent speakers, learnt a lot, clear slides.",High,88,14,0.743,Positive
+19-05-2025 03:27,Figma for Beginners,Workshop,IT,3,"Figma for Beginners (Workshop) was average experience, slides were decent.",Medium,74,10,0,Neutral
+03-06-2025 23:59,Art & Craft Pop-up,Cultural Fest,ME,3,"Art & Craft Pop-up (Cultural Fest) was timing was manageable, room was adequate.",Medium,80,13,0.2263,Positive
+14-10-2024 20:02,IoT & Robotics Arena,Tech Fest,AE,4,"IoT & Robotics Arena (Tech Fest) was interactive sessions, inspiring, good pace.",High,80,12,0.6908,Positive
+26-06-2025 01:11,Figma for Beginners,Workshop,IT,4,"Figma for Beginners (Workshop) was interactive sessions, very engaging, clear slides.",High,85,11,0.6779,Positive
+04-02-2025 02:27,Careers in Data,Seminar,CHE,5,"Careers in Data (Seminar) was great venue, good pace, interactive sessions.",High,75,11,0.7906,Positive
+23-02-2025 00:40,Dance Mania,Cultural Fest,CE,1,"Dance Mania (Cultural Fest) had issues with too advanced, wifi.",Low,63,10,0.25,Positive
+30-10-2024 21:12,24hr HealthTech Hack,Hackathon,CSE,5,"24hr HealthTech Hack (Hackathon) was useful takeaways, well organized, clear slides.",High,84,11,0.765,Positive
+11-05-2025 01:48,Green Energy Futures,Seminar,CE,5,"Green Energy Futures (Seminar) was well organized, hands-on and practical, clear slides.",High,88,12,0.7003,Positive
+20-02-2025 19:20,Colours of India,Cultural Fest,ECE,3,"Colours of India (Cultural Fest) was okay overall, topics were fine.",Medium,68,11,0.4019,Positive
+22-01-2025 18:48,Careers in Data,Seminar,AE,4,"Careers in Data (Seminar) was learnt a lot, hands-on and practical.",High,67,11,0,Neutral
+19-11-2024 01:04,Campus Problem Solver,Hackathon,CE,2,"Campus Problem Solver (Hackathon) had issues with food, audio, too basic.",Low,73,11,-0.4019,Negative
+22-01-2025 17:58,UX Research in the Wild,Guest Lecture,AE,5,"UX Research in the Wild (Guest Lecture) was useful takeaways, interactive sessions.",High,83,12,0.4404,Positive
+02-04-2025 00:11,Fusion Music Evening,Cultural Fest,ECE,5,"Fusion Music Evening (Cultural Fest) was great venue, supportive volunteers.",High,76,10,0.743,Positive
+05-03-2025 17:31,ByteBlast Coding Games,Tech Fest,AE,5,"ByteBlast Coding Games (Tech Fest) was interactive sessions, supportive volunteers.",High,83,10,0.296,Positive
+07-05-2025 04:26,Rhythm & Beats Night,Cultural Fest,MBA,2,"Rhythm & Beats Night (Cultural Fest) had issues with crowd, seating, audio.",Low,75,12,0,Neutral
+07-10-2024 20:39,Python for Data Science,Workshop,IT,4,"Python for Data Science (Workshop) was useful takeaways, supportive volunteers, clear slides.",High,93,12,0.7717,Positive
+04-10-2024 00:48,The Future of EVs,Seminar,ME,3,"The Future of EVs (Seminar) was average experience, could be more interactive.",Medium,78,12,0,Neutral
+04-10-2024 23:44,AI Ethics in Industry,Guest Lecture,CHE,3,"AI Ethics in Industry (Guest Lecture) was topics were fine, could be more interactive.",Medium,86,14,0.2023,Positive
+02-12-2024 00:37,Smart City Hack,Hackathon,ME,3,"Smart City Hack (Hackathon) was topics were fine, timing was manageable.",Medium,72,11,0.5423,Positive
+06-01-2025 05:39,The Entrepreneur’s Journey,Guest Lecture,CE,4,"The Entrepreneur’s Journey (Guest Lecture) was learnt a lot, excellent speakers.",High,80,11,0.5719,Positive
+21-03-2025 23:35,Design Thinking in Practice,Seminar,AE,4,"Design Thinking in Practice (Seminar) was excellent speakers, interactive sessions.",High,83,10,0.5719,Positive
+23-07-2025 18:01,Green Energy Futures,Seminar,MBA,3,"Green Energy Futures (Seminar) was could be more interactive, timing was manageable.",Medium,84,12,0.2732,Positive
+04-04-2025 18:11,Green Energy Futures,Seminar,MBA,2,"Green Energy Futures (Seminar) had issues with too basic, crowd, seating.",Low,73,11,0.2732,Positive
+19-10-2024 04:15,Intro to Machine Learning,Workshop,MBA,4,"Intro to Machine Learning (Workshop) was supportive volunteers, excellent speakers.",High,83,10,0.7096,Positive
+26-01-2025 00:42,Figma for Beginners,Workshop,ME,4,"Figma for Beginners (Workshop) was well organized, great venue, excellent speakers.",High,83,11,0.872,Positive
+17-05-2025 05:28,FutureTech Showcase,Tech Fest,CE,4,"FutureTech Showcase (Tech Fest) was learnt a lot, clear slides.",High,63,10,0.3818,Positive
+03-03-2025 03:09,Fusion Music Evening,Cultural Fest,AE,2,"Fusion Music Evening (Cultural Fest) had issues with seating, air conditioning, timing.",Low,87,12,0,Neutral
+14-01-2025 21:02,The Entrepreneur’s Journey,Guest Lecture,CSE,2,"The Entrepreneur’s Journey (Guest Lecture) had issues with seating, timing.",Low,75,10,0,Neutral
+26-08-2024 18:36,The Entrepreneur’s Journey,Guest Lecture,EEE,5,"The Entrepreneur’s Journey (Guest Lecture) was inspiring, interactive sessions.",High,79,9,0.4215,Positive
+19-01-2025 03:36,Product Management Myths,Guest Lecture,MBA,1,Product Management Myths (Guest Lecture) had issues with timing.,Low,64,9,0,Neutral
+24-06-2025 01:17,Power BI Essentials,Workshop,CHE,4,"Power BI Essentials (Workshop) was great venue, inspiring.",High,58,8,0.7845,Positive
+27-12-2024 01:31,Intro to Machine Learning,Workshop,CHE,5,"Intro to Machine Learning (Workshop) was clear slides, well organized, interactive sessions.",High,92,12,0.5719,Positive
+07-08-2025 22:34,The Future of EVs,Seminar,IT,4,"The Future of EVs (Seminar) was well organized, great venue.",High,60,10,0.7351,Positive
+23-09-2024 03:28,Product Management Myths,Guest Lecture,CE,3,"Product Management Myths (Guest Lecture) was timing was manageable, could be more interactive.",Medium,94,13,0,Neutral
+12-03-2025 03:20,24hr HealthTech Hack,Hackathon,CHE,5,"24hr HealthTech Hack (Hackathon) was learnt a lot, very engaging, great venue.",High,78,12,0.7947,Positive
+11-06-2025 19:39,IoT & Robotics Arena,Tech Fest,IT,4,"IoT & Robotics Arena (Tech Fest) was good pace, learnt a lot.",High,61,12,0.4404,Positive
+28-10-2024 20:53,Leadership & Teams,Seminar,MBA,3,"Leadership & Teams (Seminar) was topics were fine, timing was manageable.",Medium,73,11,0.2023,Positive
+10-08-2025 05:09,Figma for Beginners,Workshop,CHE,4,"Figma for Beginners (Workshop) was very engaging, hands-on and practical.",High,73,10,0.4005,Positive
+10-11-2024 22:16,Colours of India,Cultural Fest,IT,4,"Colours of India (Cultural Fest) was interactive sessions, useful takeaways.",High,76,10,0.4404,Positive
+07-09-2024 05:32,Dance Mania,Cultural Fest,ECE,5,"Dance Mania (Cultural Fest) was great venue, very engaging.",High,59,9,0.7778,Positive
+08-11-2024 05:24,Sustainability Hack Night,Hackathon,EEE,5,"Sustainability Hack Night (Hackathon) was supportive volunteers, interactive sessions, hands-on and practical.",High,110,12,0.296,Positive
+03-07-2025 21:50,ByteBlast Coding Games,Tech Fest,ME,3,"ByteBlast Coding Games (Tech Fest) was okay overall, timing was manageable.",Medium,75,11,0.2263,Positive
+04-09-2024 22:17,Dance Mania,Cultural Fest,CE,4,"Dance Mania (Cultural Fest) was learnt a lot, interactive sessions.",High,67,10,0,Neutral
+24-11-2024 23:43,Space Tech & You,Guest Lecture,ME,4,"Space Tech & You (Guest Lecture) was supportive volunteers, interactive sessions, great venue.",High,94,13,0.743,Positive
+20-03-2025 05:12,Smart City Hack,Hackathon,ME,4,"Smart City Hack (Hackathon) was learnt a lot, well organized.",High,61,10,0.5859,Positive
+04-12-2024 05:25,The Future of EVs,Seminar,CE,3,"The Future of EVs (Seminar) was room was adequate, slides were decent.",Medium,70,12,0.2263,Positive
+26-12-2024 23:37,ByteBlast Coding Games,Tech Fest,BIO,2,"ByteBlast Coding Games (Tech Fest) had issues with too basic, audio, projector.",Low,79,12,0,Neutral
+23-06-2025 01:45,Cloud & DevOps Fair,Tech Fest,IT,5,"Cloud & DevOps Fair (Tech Fest) was good pace, useful takeaways, interactive sessions.",High,86,13,0.7964,Positive
+12-09-2024 20:45,UX Research in the Wild,Guest Lecture,CSE,5,"UX Research in the Wild (Guest Lecture) was inspiring, supportive volunteers.",High,77,11,0.6124,Positive
+27-11-2024 21:40,Fusion Music Evening,Cultural Fest,CSE,5,"Fusion Music Evening (Cultural Fest) was clear slides, interactive sessions, well organized.",High,92,12,0.5719,Positive
+01-07-2025 17:56,FinTech Innovation Sprint,Hackathon,EEE,5,"FinTech Innovation Sprint (Hackathon) was very engaging, good pace, hands-on and practical.",High,91,12,0.8162,Positive
+10-04-2025 18:58,Colours of India,Cultural Fest,BIO,3,"Colours of India (Cultural Fest) was slides were decent, room was adequate.",Medium,75,12,0.2263,Positive
+04-02-2025 00:13,Rhythm & Beats Night,Cultural Fest,ME,4,"Rhythm & Beats Night (Cultural Fest) was good pace, supportive volunteers.",High,74,11,0.6249,Positive
+28-12-2024 22:56,Power BI Essentials,Workshop,AE,4,"Power BI Essentials (Workshop) was inspiring, excellent speakers.",High,65,8,0.7579,Positive
+24-10-2024 18:19,UX Research in the Wild,Guest Lecture,ME,3,"UX Research in the Wild (Guest Lecture) was room was adequate, slides were decent.",Medium,82,14,0.2263,Positive
+11-05-2025 02:22,Space Tech & You,Guest Lecture,MBA,5,"Space Tech & You (Guest Lecture) was clear slides, good pace.",High,61,11,0.6705,Positive
+08-06-2025 04:07,Campus Problem Solver,Hackathon,IT,4,"Campus Problem Solver (Hackathon) was very engaging, great venue.",High,65,9,0.6566,Positive
+24-03-2025 21:31,Intro to Machine Learning,Workshop,ME,4,"Intro to Machine Learning (Workshop) was supportive volunteers, well organized.",High,79,10,0.5106,Positive
+03-12-2024 17:51,Space Tech & You,Guest Lecture,EEE,4,"Space Tech & You (Guest Lecture) was excellent speakers, very engaging.",High,71,11,0.7501,Positive
+30-06-2025 00:27,Trends in 5G,Seminar,BIO,4,"Trends in 5G (Seminar) was inspiring, clear slides, well organized.",High,67,10,0.7579,Positive
+26-06-2025 02:12,Figma for Beginners,Workshop,BIO,4,"Figma for Beginners (Workshop) was good pace, inspiring, excellent speakers.",High,76,10,0.8555,Positive
+16-09-2024 19:21,Figma for Beginners,Workshop,EEE,2,"Figma for Beginners (Workshop) had issues with air conditioning, too advanced, registration.",Low,92,12,0.25,Positive
+30-07-2025 03:05,IoT & Robotics Arena,Tech Fest,MBA,5,"IoT & Robotics Arena (Tech Fest) was very engaging, well organized.",High,67,11,0.6214,Positive
+16-10-2024 23:23,Stagecraft Theatre,Cultural Fest,MBA,3,"Stagecraft Theatre (Cultural Fest) was okay overall, slides were decent.",Medium,72,10,0.2263,Positive
+22-02-2025 17:17,Cybersecurity Basics,Workshop,EEE,5,"Cybersecurity Basics (Workshop) was inspiring, useful takeaways.",High,64,7,0.6908,Positive
+24-09-2024 21:42,Careers in Data,Seminar,MBA,4,"Careers in Data (Seminar) was excellent speakers, good pace, clear slides.",High,74,11,0.8481,Positive
+08-12-2024 04:25,Python for Data Science,Workshop,EEE,4,"Python for Data Science (Workshop) was clear slides, good pace, supportive volunteers.",High,86,12,0.7717,Positive
+16-01-2025 23:50,Rhythm & Beats Night,Cultural Fest,ECE,4,"Rhythm & Beats Night (Cultural Fest) was inspiring, useful takeaways.",High,69,10,0.6908,Positive
+19-02-2025 19:51,Careers in Data,Seminar,CHE,3,"Careers in Data (Seminar) was timing was manageable, slides were decent.",Medium,72,11,0,Neutral
+20-12-2024 04:30,Fusion Music Evening,Cultural Fest,CHE,5,"Fusion Music Evening (Cultural Fest) was inspiring, very engaging, useful takeaways.",High,84,11,0.8258,Positive
+22-10-2024 05:06,Python for Data Science,Workshop,ECE,4,"Python for Data Science (Workshop) was inspiring, interactive sessions.",High,71,9,0.4215,Positive
+05-06-2025 05:52,Figma for Beginners,Workshop,IT,4,"Figma for Beginners (Workshop) was well organized, great venue, interactive sessions.",High,85,11,0.7351,Positive
+26-01-2025 21:44,Python for Data Science,Workshop,CE,2,"Python for Data Science (Workshop) had issues with wifi, projector, food.",Low,73,11,0,Neutral
+08-02-2025 22:37,Stagecraft Theatre,Cultural Fest,CSE,2,Stagecraft Theatre (Cultural Fest) had issues with air conditioning.,Low,68,9,0,Neutral
+29-11-2024 23:05,The Entrepreneur’s Journey,Guest Lecture,AE,2,The Entrepreneur’s Journey (Guest Lecture) had issues with seating.,Low,67,9,0,Neutral
+25-04-2025 19:52,Design Thinking in Practice,Seminar,BIO,4,"Design Thinking in Practice (Seminar) was well organized, interactive sessions, very engaging.",High,94,12,0.5849,Positive
+20-09-2024 01:31,Campus Problem Solver,Hackathon,MBA,3,"Campus Problem Solver (Hackathon) was topics were fine, slides were decent.",Medium,75,11,-0.2263,Negative
+31-08-2024 20:48,Art & Craft Pop-up,Cultural Fest,MBA,3,"Art & Craft Pop-up (Cultural Fest) was timing was manageable, slides were decent.",Medium,81,13,0,Neutral
+06-09-2024 22:36,Product Management Myths,Guest Lecture,MBA,4,"Product Management Myths (Guest Lecture) was very engaging, hands-on and practical.",High,83,11,0.4005,Positive
+22-06-2025 19:07,The Entrepreneur’s Journey,Guest Lecture,ME,2,"The Entrepreneur’s Journey (Guest Lecture) had issues with crowd, venue, seating.",Low,81,11,0,Neutral
+08-01-2025 23:17,Design Thinking in Practice,Seminar,MBA,3,"Design Thinking in Practice (Seminar) was room was adequate, okay overall.",Medium,74,11,0.4215,Positive
+23-01-2025 19:19,Smart City Hack,Hackathon,MBA,4,"Smart City Hack (Hackathon) was hands-on and practical, learnt a lot, clear slides.",High,83,13,0.6486,Positive
+04-09-2024 05:42,Trends in 5G,Seminar,CE,5,"Trends in 5G (Seminar) was inspiring, clear slides.",High,51,8,0.6597,Positive
+05-02-2025 20:01,Colours of India,Cultural Fest,CE,4,"Colours of India (Cultural Fest) was inspiring, clear slides, hands-on and practical.",High,85,12,0.6597,Positive
+10-09-2024 00:36,Cloud & DevOps Fair,Tech Fest,ME,3,"Cloud & DevOps Fair (Tech Fest) was average experience, room was adequate.",Medium,74,12,0.4939,Positive
+09-08-2025 03:07,The Entrepreneur’s Journey,Guest Lecture,ECE,4,"The Entrepreneur’s Journey (Guest Lecture) was hands-on and practical, well organized.",High,86,11,0.2732,Positive
+26-07-2025 04:31,FutureTech Showcase,Tech Fest,BIO,4,"FutureTech Showcase (Tech Fest) was excellent speakers, clear slides.",High,69,9,0.743,Positive
+28-11-2024 21:29,Cloud & DevOps Fair,Tech Fest,EEE,2,"Cloud & DevOps Fair (Tech Fest) had issues with registration, audio, projector.",Low,79,12,0.3182,Positive
+10-11-2024 21:19,Stagecraft Theatre,Cultural Fest,BIO,4,"Stagecraft Theatre (Cultural Fest) was hands-on and practical, very engaging.",High,77,10,0.4005,Positive
+18-02-2025 01:32,Cloud & DevOps Fair,Tech Fest,CHE,2,"Cloud & DevOps Fair (Tech Fest) had issues with food, registration, too advanced.",Low,81,13,0.5106,Positive
+29-01-2025 03:09,Green Energy Futures,Seminar,EEE,1,"Green Energy Futures (Seminar) had issues with registration, seating, food.",Low,75,10,0.2732,Positive
+06-09-2024 01:09,Leadership & Teams,Seminar,BIO,2,Leadership & Teams (Seminar) had issues with seating.,Low,53,8,0,Neutral
+10-03-2025 19:57,AI Ethics in Industry,Guest Lecture,ECE,4,"AI Ethics in Industry (Guest Lecture) was well organized, excellent speakers, good pace.",High,88,13,0.8271,Positive
+28-01-2025 23:04,Dance Mania,Cultural Fest,BIO,3,"Dance Mania (Cultural Fest) was timing was manageable, could be more interactive.",Medium,81,12,0,Neutral
+08-06-2025 19:17,Cybersecurity Basics,Workshop,CHE,3,"Cybersecurity Basics (Workshop) was okay overall, topics were fine.",Medium,67,9,0.4019,Positive
+18-07-2025 05:01,Space Tech & You,Guest Lecture,ECE,2,"Space Tech & You (Guest Lecture) had issues with wifi, air conditioning.",Low,72,12,0,Neutral
+03-07-2025 22:10,Sustainability Hack Night,Hackathon,CE,2,Sustainability Hack Night (Hackathon) had issues with seating.,Low,62,8,0,Neutral
+06-09-2024 18:42,The Future of EVs,Seminar,ME,5,"The Future of EVs (Seminar) was great venue, inspiring, interactive sessions.",High,77,11,0.7845,Positive
+28-06-2025 02:20,FutureTech Showcase,Tech Fest,BIO,4,"FutureTech Showcase (Tech Fest) was very engaging, hands-on and practical, great venue.",High,87,12,0.7778,Positive
+20-07-2025 19:02,Rhythm & Beats Night,Cultural Fest,IT,5,"Rhythm & Beats Night (Cultural Fest) was great venue, clear slides.",High,67,11,0.7717,Positive
+21-03-2025 20:51,Leadership & Teams,Seminar,BIO,3,"Leadership & Teams (Seminar) was topics were fine, timing was manageable.",Medium,73,11,0.2023,Positive
+07-12-2024 04:49,Figma for Beginners,Workshop,ME,4,"Figma for Beginners (Workshop) was good pace, excellent speakers, great venue.",High,78,11,0.8934,Positive
+28-07-2025 03:16,Sustainability Hack Night,Hackathon,AE,4,"Sustainability Hack Night (Hackathon) was clear slides, learnt a lot, very engaging.",High,84,12,0.6478,Positive
+16-04-2025 22:47,UX Research in the Wild,Guest Lecture,AE,4,"UX Research in the Wild (Guest Lecture) was excellent speakers, useful takeaways, interactive sessions.",High,103,14,0.765,Positive
+27-09-2024 02:18,Campus AI Day,Tech Fest,ME,3,"Campus AI Day (Tech Fest) was could be more interactive, topics were fine.",Medium,74,13,0.2023,Positive
+26-07-2025 17:17,The Entrepreneur’s Journey,Guest Lecture,IT,1,"The Entrepreneur’s Journey (Guest Lecture) had issues with too basic, air conditioning.",Low,87,12,0,Neutral
+07-11-2024 00:46,Intro to Machine Learning,Workshop,AE,4,"Intro to Machine Learning (Workshop) was very engaging, interactive sessions.",High,77,10,0.4005,Positive
+05-08-2025 22:31,The Future of EVs,Seminar,AE,2,"The Future of EVs (Seminar) had issues with too basic, registration, air conditioning.",Low,86,13,0,Neutral
+16-06-2025 17:51,Art & Craft Pop-up,Cultural Fest,EEE,4,"Art & Craft Pop-up (Cultural Fest) was supportive volunteers, great venue, excellent speakers.",High,94,13,0.875,Positive
+18-09-2024 17:57,Fusion Music Evening,Cultural Fest,ME,4,"Fusion Music Evening (Cultural Fest) was well organized, great venue, clear slides.",High,83,12,0.8316,Positive
+06-09-2024 20:39,Stagecraft Theatre,Cultural Fest,ECE,3,"Stagecraft Theatre (Cultural Fest) was slides were decent, could be more interactive.",Medium,85,12,0,Neutral
+05-03-2025 23:46,The Entrepreneur’s Journey,Guest Lecture,IT,4,"The Entrepreneur’s Journey (Guest Lecture) was supportive volunteers, good pace, interactive sessions.",High,102,12,0.6249,Positive
+27-11-2024 01:36,Cybersecurity Basics,Workshop,ME,3,"Cybersecurity Basics (Workshop) was topics were fine, average experience.",Medium,73,9,0.2023,Positive
+29-10-2024 17:16,The Future of EVs,Seminar,ME,2,"The Future of EVs (Seminar) had issues with air conditioning, seating.",Low,70,11,0,Neutral
+04-10-2024 19:53,AI Ethics in Industry,Guest Lecture,ME,4,"AI Ethics in Industry (Guest Lecture) was interactive sessions, good pace, very engaging.",High,89,13,0.6801,Positive
+09-05-2025 23:47,Sustainability Hack Night,Hackathon,AE,5,"Sustainability Hack Night (Hackathon) was useful takeaways, very engaging, inspiring.",High,85,10,0.8258,Positive
+27-06-2025 17:48,Sustainability Hack Night,Hackathon,MBA,5,"Sustainability Hack Night (Hackathon) was very engaging, good pace.",High,67,9,0.707,Positive
+25-02-2025 17:14,Smart City Hack,Hackathon,CHE,5,"Smart City Hack (Hackathon) was good pace, clear slides, useful takeaways.",High,74,11,0.8779,Positive
+26-04-2025 04:17,Fusion Music Evening,Cultural Fest,MBA,3,"Fusion Music Evening (Cultural Fest) was okay overall, timing was manageable.",Medium,77,11,0.2263,Positive
+17-05-2025 02:17,Cybersecurity Basics,Workshop,CHE,5,"Cybersecurity Basics (Workshop) was inspiring, clear slides, excellent speakers.",High,80,9,0.8442,Positive
+26-05-2025 05:49,Power BI Essentials,Workshop,ECE,3,"Power BI Essentials (Workshop) was room was adequate, slides were decent.",Medium,73,11,0.2263,Positive
+12-04-2025 02:09,Leadership & Teams,Seminar,CSE,5,"Leadership & Teams (Seminar) was clear slides, well organized, inspiring.",High,73,10,0.7579,Positive
+19-01-2025 21:22,Campus Problem Solver,Hackathon,MBA,3,"Campus Problem Solver (Hackathon) was topics were fine, could be more interactive.",Medium,82,12,-0.2263,Negative
+23-09-2024 03:42,IoT & Robotics Arena,Tech Fest,AE,4,"IoT & Robotics Arena (Tech Fest) was supportive volunteers, useful takeaways, hands-on and practical.",High,101,14,0.6249,Positive
+07-07-2025 17:30,Colours of India,Cultural Fest,AE,5,"Colours of India (Cultural Fest) was interactive sessions, hands-on and practical.",High,82,11,0,Neutral
+11-01-2025 21:20,24hr HealthTech Hack,Hackathon,ME,3,"24hr HealthTech Hack (Hackathon) was timing was manageable, okay overall.",Medium,73,10,0.2263,Positive
+20-11-2024 02:59,Stagecraft Theatre,Cultural Fest,EEE,5,"Stagecraft Theatre (Cultural Fest) was well organized, excellent speakers, useful takeaways.",High,92,11,0.8271,Positive
+03-01-2025 05:56,Cybersecurity Basics,Workshop,BIO,3,"Cybersecurity Basics (Workshop) was could be more interactive, average experience.",Medium,82,10,0,Neutral
+05-11-2024 03:11,Power BI Essentials,Workshop,ME,5,"Power BI Essentials (Workshop) was great venue, excellent speakers.",High,67,9,0.8316,Positive
+14-07-2025 19:25,Power BI Essentials,Workshop,IT,5,"Power BI Essentials (Workshop) was learnt a lot, interactive sessions, inspiring.",High,81,11,0.4215,Positive
+20-10-2024 17:22,Art & Craft Pop-up,Cultural Fest,MBA,4,"Art & Craft Pop-up (Cultural Fest) was interactive sessions, hands-on and practical.",High,84,12,0,Neutral
+19-12-2024 23:55,Sustainability Hack Night,Hackathon,BIO,2,"Sustainability Hack Night (Hackathon) had issues with too basic, too advanced.",Low,78,11,0.25,Positive
+28-08-2024 22:11,Space Tech & You,Guest Lecture,BIO,5,"Space Tech & You (Guest Lecture) was very engaging, clear slides, good pace.",High,76,13,0.8162,Positive
+14-07-2025 23:06,Sustainability Hack Night,Hackathon,MBA,4,"Sustainability Hack Night (Hackathon) was excellent speakers, clear slides.",High,75,9,0.743,Positive
+06-01-2025 05:18,Campus Problem Solver,Hackathon,EEE,3,"Campus Problem Solver (Hackathon) was could be more interactive, slides were decent.",Medium,84,12,-0.4019,Negative
+02-08-2025 03:01,Design Thinking in Practice,Seminar,AE,4,"Design Thinking in Practice (Seminar) was inspiring, interactive sessions, learnt a lot.",High,88,12,0.4215,Positive
+28-08-2024 03:12,Figma for Beginners,Workshop,MBA,4,"Figma for Beginners (Workshop) was great venue, clear slides.",High,61,9,0.7717,Positive
+15-10-2024 03:40,InnovateX Tech Expo,Tech Fest,IT,3,"InnovateX Tech Expo (Tech Fest) was okay overall, timing was manageable.",Medium,72,11,0.2263,Positive
+05-07-2025 18:15,Green Energy Futures,Seminar,EEE,4,"Green Energy Futures (Seminar) was learnt a lot, well organized, interactive sessions.",High,86,12,0.4939,Positive
+06-10-2024 02:20,Art & Craft Pop-up,Cultural Fest,CE,4,"Art & Craft Pop-up (Cultural Fest) was supportive volunteers, excellent speakers.",High,81,11,0.7096,Positive
+29-12-2024 21:41,Campus Problem Solver,Hackathon,ME,4,"Campus Problem Solver (Hackathon) was supportive volunteers, very engaging.",High,75,9,0.2944,Positive
+03-02-2025 21:22,AI Ethics in Industry,Guest Lecture,BIO,2,"AI Ethics in Industry (Guest Lecture) had issues with venue, air conditioning.",Low,78,12,0,Neutral
+01-01-2025 21:23,FutureTech Showcase,Tech Fest,CSE,5,"FutureTech Showcase (Tech Fest) was good pace, great venue, well organized.",High,75,11,0.8442,Positive
+22-11-2024 03:43,24hr HealthTech Hack,Hackathon,BIO,4,"24hr HealthTech Hack (Hackathon) was useful takeaways, good pace.",High,65,9,0.7003,Positive
+06-04-2025 04:28,ByteBlast Coding Games,Tech Fest,CHE,4,"ByteBlast Coding Games (Tech Fest) was learnt a lot, useful takeaways, excellent speakers.",High,90,13,0.765,Positive
+07-04-2025 18:09,InnovateX Tech Expo,Tech Fest,ECE,5,"InnovateX Tech Expo (Tech Fest) was useful takeaways, hands-on and practical.",High,77,11,0.4404,Positive
+05-01-2025 19:56,Smart City Hack,Hackathon,CSE,5,"Smart City Hack (Hackathon) was interactive sessions, good pace.",High,64,9,0.6808,Positive
+01-05-2025 00:39,The Future of EVs,Seminar,AE,2,The Future of EVs (Seminar) had issues with too advanced.,Low,57,10,0.25,Positive
+10-08-2025 05:42,24hr HealthTech Hack,Hackathon,CHE,5,"24hr HealthTech Hack (Hackathon) was well organized, good pace.",High,63,9,0.6124,Positive
+15-03-2025 17:52,Cloud & DevOps Fair,Tech Fest,CHE,4,"Cloud & DevOps Fair (Tech Fest) was great venue, interactive sessions, hands-on and practical.",High,94,14,0.7506,Positive
+19-07-2025 20:23,AI Ethics in Industry,Guest Lecture,MBA,4,"AI Ethics in Industry (Guest Lecture) was excellent speakers, inspiring, hands-on and practical.",High,96,13,0.7579,Positive
+16-10-2024 03:56,Rhythm & Beats Night,Cultural Fest,IT,4,"Rhythm & Beats Night (Cultural Fest) was hands-on and practical, good pace.",High,75,12,0.4404,Positive
+09-09-2024 20:13,The Future of EVs,Seminar,ECE,5,"The Future of EVs (Seminar) was supportive volunteers, learnt a lot, very engaging.",High,83,13,0.5984,Positive
+17-07-2025 21:43,The Entrepreneur’s Journey,Guest Lecture,CE,4,"The Entrepreneur’s Journey (Guest Lecture) was good pace, excellent speakers, clear slides.",High,91,12,0.8481,Positive
+11-02-2025 05:58,Fusion Music Evening,Cultural Fest,CSE,5,"Fusion Music Evening (Cultural Fest) was great venue, well organized.",High,69,10,0.7351,Positive
+17-05-2025 00:55,Campus AI Day,Tech Fest,ECE,4,"Campus AI Day (Tech Fest) was interactive sessions, supportive volunteers.",High,74,10,0.296,Positive
+03-11-2024 00:53,Colours of India,Cultural Fest,AE,5,"Colours of India (Cultural Fest) was excellent speakers, well organized.",High,72,10,0.7003,Positive
+27-10-2024 17:23,Campus AI Day,Tech Fest,AE,4,"Campus AI Day (Tech Fest) was learnt a lot, interactive sessions.",High,65,11,0,Neutral
+18-11-2024 02:16,AI Ethics in Industry,Guest Lecture,EEE,5,"AI Ethics in Industry (Guest Lecture) was inspiring, useful takeaways.",High,70,10,0.6908,Positive
+28-03-2025 23:03,InnovateX Tech Expo,Tech Fest,BIO,4,"InnovateX Tech Expo (Tech Fest) was excellent speakers, learnt a lot.",High,69,11,0.5719,Positive
+28-05-2025 19:32,UX Research in the Wild,Guest Lecture,IT,5,"UX Research in the Wild (Guest Lecture) was excellent speakers, interactive sessions, useful takeaways.",High,103,14,0.765,Positive
+22-10-2024 21:21,Python for Data Science,Workshop,AE,5,"Python for Data Science (Workshop) was great venue, excellent speakers.",High,71,10,0.8316,Positive
+15-06-2025 17:20,Smart City Hack,Hackathon,MBA,5,"Smart City Hack (Hackathon) was inspiring, learnt a lot.",High,56,9,0.6705,Positive
+02-10-2024 17:12,IoT & Robotics Arena,Tech Fest,AE,4,"IoT & Robotics Arena (Tech Fest) was very engaging, well organized, inspiring.",High,78,12,0.7828,Positive
+05-12-2024 19:52,Python for Data Science,Workshop,AE,4,"Python for Data Science (Workshop) was good pace, inspiring, very engaging.",High,75,11,0.8122,Positive
+01-07-2025 04:14,Leadership & Teams,Seminar,BIO,2,"Leadership & Teams (Seminar) had issues with registration, seating.",Low,67,9,0,Neutral
+16-02-2025 23:12,Colours of India,Cultural Fest,BIO,4,"Colours of India (Cultural Fest) was interactive sessions, hands-on and practical.",High,82,11,0,Neutral
+04-07-2025 23:07,Colours of India,Cultural Fest,CE,4,"Colours of India (Cultural Fest) was clear slides, excellent speakers.",High,70,10,0.743,Positive
+10-01-2025 17:24,Dance Mania,Cultural Fest,CE,4,"Dance Mania (Cultural Fest) was interactive sessions, supportive volunteers, learnt a lot.",High,90,12,0.296,Positive
+19-09-2024 03:35,ByteBlast Coding Games,Tech Fest,BIO,5,"ByteBlast Coding Games (Tech Fest) was very engaging, supportive volunteers, well organized.",High,92,12,0.7408,Positive
+13-09-2024 18:59,Green Energy Futures,Seminar,IT,5,"Green Energy Futures (Seminar) was great venue, useful takeaways, inspiring.",High,76,10,0.8979,Positive
+12-05-2025 18:16,Cloud & DevOps Fair,Tech Fest,ME,5,"Cloud & DevOps Fair (Tech Fest) was well organized, inspiring.",High,62,10,0.7351,Positive
+18-12-2024 05:19,Cybersecurity Basics,Workshop,BIO,5,"Cybersecurity Basics (Workshop) was good pace, learnt a lot, great venue.",High,73,11,0.7906,Positive
+03-12-2024 00:09,Green Energy Futures,Seminar,ECE,4,"Green Energy Futures (Seminar) was supportive volunteers, good pace.",High,68,9,0.7351,Positive
+11-12-2024 02:41,Python for Data Science,Workshop,BIO,5,"Python for Data Science (Workshop) was well organized, good pace, very engaging.",High,80,12,0.7713,Positive
+11-07-2025 22:29,Power BI Essentials,Workshop,MBA,5,"Power BI Essentials (Workshop) was inspiring, learnt a lot.",High,59,9,0.4215,Positive
+09-06-2025 17:29,Web Dev Bootcamp,Workshop,ME,1,Web Dev Bootcamp (Workshop) had issues with projector.,Low,54,8,0,Neutral
+12-12-2024 21:50,Python for Data Science,Workshop,BIO,4,"Python for Data Science (Workshop) was good pace, very engaging, great venue.",High,77,12,0.8742,Positive
+17-12-2024 18:38,Cybersecurity Basics,Workshop,AE,4,"Cybersecurity Basics (Workshop) was useful takeaways, clear slides.",High,67,8,0.6705,Positive
+30-03-2025 05:07,Fusion Music Evening,Cultural Fest,CE,4,"Fusion Music Evening (Cultural Fest) was inspiring, hands-on and practical, well organized.",High,91,12,0.5994,Positive
+07-11-2024 03:09,Intro to Machine Learning,Workshop,MBA,5,"Intro to Machine Learning (Workshop) was useful takeaways, learnt a lot, supportive volunteers.",High,95,13,0.6249,Positive
+07-05-2025 17:39,Campus AI Day,Tech Fest,CSE,3,"Campus AI Day (Tech Fest) was okay overall, topics were fine.",Medium,61,11,0.4019,Positive
+23-12-2024 18:47,Fusion Music Evening,Cultural Fest,BIO,5,"Fusion Music Evening (Cultural Fest) was inspiring, supportive volunteers.",High,74,9,0.6124,Positive
+20-01-2025 20:53,IoT & Robotics Arena,Tech Fest,IT,4,"IoT & Robotics Arena (Tech Fest) was very engaging, great venue.",High,64,11,0.7947,Positive
+16-06-2025 17:41,InnovateX Tech Expo,Tech Fest,BIO,4,"InnovateX Tech Expo (Tech Fest) was very engaging, inspiring, useful takeaways.",High,79,11,0.8375,Positive
+09-07-2025 00:57,Smart City Hack,Hackathon,IT,1,Smart City Hack (Hackathon) had issues with audio.,Low,50,8,0.4019,Positive
+09-02-2025 01:14,AI Ethics in Industry,Guest Lecture,ECE,3,"AI Ethics in Industry (Guest Lecture) was topics were fine, room was adequate.",Medium,78,13,0.4019,Positive
+05-07-2025 22:59,The Future of EVs,Seminar,EEE,5,"The Future of EVs (Seminar) was interactive sessions, excellent speakers.",High,73,10,0.5719,Positive
+26-02-2025 00:51,Cloud & DevOps Fair,Tech Fest,MBA,4,"Cloud & DevOps Fair (Tech Fest) was excellent speakers, good pace.",High,66,11,0.836,Positive
+05-06-2025 04:16,FutureTech Showcase,Tech Fest,MBA,2,FutureTech Showcase (Tech Fest) had issues with air conditioning.,Low,65,9,0,Neutral
+25-05-2025 18:53,Art & Craft Pop-up,Cultural Fest,CE,5,"Art & Craft Pop-up (Cultural Fest) was great venue, learnt a lot.",High,65,12,0.6249,Positive
+15-12-2024 22:34,Campus Problem Solver,Hackathon,CE,3,"Campus Problem Solver (Hackathon) was slides were decent, room was adequate.",Medium,76,11,-0.2023,Negative
+15-02-2025 00:43,Leadership & Teams,Seminar,IT,5,"Leadership & Teams (Seminar) was well organized, excellent speakers, great venue.",High,81,11,0.872,Positive
+19-01-2025 00:51,Dance Mania,Cultural Fest,ECE,4,"Dance Mania (Cultural Fest) was supportive volunteers, clear slides, interactive sessions.",High,90,11,0.5859,Positive
+03-10-2024 00:09,Design Thinking in Practice,Seminar,ECE,4,"Design Thinking in Practice (Seminar) was inspiring, excellent speakers.",High,72,9,0.7579,Positive
+19-10-2024 04:21,Web Dev Bootcamp,Workshop,ECE,4,"Web Dev Bootcamp (Workshop) was very engaging, hands-on and practical.",High,70,10,0.4005,Positive
+24-03-2025 03:46,Smart City Hack,Hackathon,CE,2,"Smart City Hack (Hackathon) had issues with air conditioning, timing, wifi.",Low,75,11,0.4019,Positive
+18-01-2025 20:16,Power BI Essentials,Workshop,MBA,5,"Power BI Essentials (Workshop) was inspiring, interactive sessions, well organized.",High,83,10,0.5994,Positive
+24-07-2025 04:02,ByteBlast Coding Games,Tech Fest,CHE,4,"ByteBlast Coding Games (Tech Fest) was good pace, useful takeaways, great venue.",High,80,12,0.872,Positive
+21-05-2025 01:40,The Future of EVs,Seminar,AE,3,"The Future of EVs (Seminar) was room was adequate, slides were decent.",Medium,70,12,0.2263,Positive
+02-01-2025 20:42,FinTech Innovation Sprint,Hackathon,AE,4,"FinTech Innovation Sprint (Hackathon) was hands-on and practical, very engaging.",High,80,10,0.6478,Positive
+12-04-2025 19:51,Careers in Data,Seminar,CSE,4,"Careers in Data (Seminar) was great venue, hands-on and practical.",High,66,10,0.6249,Positive
+20-11-2024 04:56,Cybersecurity Basics,Workshop,CHE,3,"Cybersecurity Basics (Workshop) was could be more interactive, average experience.",Medium,82,10,0,Neutral
+12-09-2024 22:48,Startup Funding 101,Guest Lecture,ME,3,"Startup Funding 101 (Guest Lecture) was average experience, okay overall.",Medium,73,10,0.2263,Positive
+09-09-2024 03:32,Power BI Essentials,Workshop,EEE,4,"Power BI Essentials (Workshop) was very engaging, learnt a lot, clear slides.",High,77,12,0.6478,Positive
+23-01-2025 19:10,Green Energy Futures,Seminar,MBA,4,"Green Energy Futures (Seminar) was clear slides, very engaging, supportive volunteers.",High,86,11,0.8347,Positive
+09-11-2024 17:59,Campus AI Day,Tech Fest,BIO,5,"Campus AI Day (Tech Fest) was inspiring, great venue.",High,53,9,0.7845,Positive
+21-01-2025 01:09,Dance Mania,Cultural Fest,MBA,3,"Dance Mania (Cultural Fest) was room was adequate, slides were decent.",Medium,70,11,0.2263,Positive
+11-09-2024 19:55,Leadership & Teams,Seminar,ME,4,"Leadership & Teams (Seminar) was great venue, excellent speakers, inspiring.",High,76,10,0.891,Positive
+13-12-2024 00:34,Rhythm & Beats Night,Cultural Fest,EEE,5,"Rhythm & Beats Night (Cultural Fest) was good pace, useful takeaways.",High,69,11,0.7003,Positive
+14-12-2024 06:11,FutureTech Showcase,Tech Fest,CSE,5,"FutureTech Showcase (Tech Fest) was useful takeaways, clear slides.",High,67,9,0.6705,Positive
+04-08-2025 03:17,Green Energy Futures,Seminar,CSE,4,"Green Energy Futures (Seminar) was clear slides, inspiring.",High,59,8,0.7579,Positive
+27-06-2025 02:44,Fusion Music Evening,Cultural Fest,CE,3,"Fusion Music Evening (Cultural Fest) was topics were fine, could be more interactive.",Medium,85,13,0.2023,Positive
+07-03-2025 22:12,IoT & Robotics Arena,Tech Fest,MBA,4,"IoT & Robotics Arena (Tech Fest) was very engaging, good pace, great venue.",High,75,13,0.8742,Positive
+11-12-2024 05:08,Careers in Data,Seminar,MBA,4,"Careers in Data (Seminar) was inspiring, clear slides, excellent speakers.",High,74,10,0.8442,Positive
+02-11-2024 02:50,Sustainability Hack Night,Hackathon,BIO,5,"Sustainability Hack Night (Hackathon) was very engaging, good pace, interactive sessions.",High,89,11,0.707,Positive
+25-09-2024 03:00,ByteBlast Coding Games,Tech Fest,CE,4,"ByteBlast Coding Games (Tech Fest) was inspiring, clear slides, great venue.",High,76,11,0.8591,Positive
+20-11-2024 01:41,24hr HealthTech Hack,Hackathon,CSE,4,"24hr HealthTech Hack (Hackathon) was interactive sessions, hands-on and practical, good pace.",High,93,12,0.4404,Positive
+05-03-2025 21:47,The Entrepreneur’s Journey,Guest Lecture,ME,3,"The Entrepreneur’s Journey (Guest Lecture) was average experience, slides were decent.",Medium,86,11,0,Neutral
+14-12-2024 18:02,24hr HealthTech Hack,Hackathon,EEE,5,"24hr HealthTech Hack (Hackathon) was inspiring, clear slides, supportive volunteers.",High,84,10,0.765,Positive
+25-10-2024 03:54,ByteBlast Coding Games,Tech Fest,EEE,5,"ByteBlast Coding Games (Tech Fest) was interactive sessions, supportive volunteers, inspiring.",High,94,11,0.6124,Positive
+18-07-2025 20:13,The Future of EVs,Seminar,ME,3,"The Future of EVs (Seminar) was topics were fine, room was adequate.",Medium,68,12,0.4019,Positive
+16-06-2025 00:48,FutureTech Showcase,Tech Fest,BIO,4,"FutureTech Showcase (Tech Fest) was useful takeaways, great venue.",High,66,9,0.7906,Positive
+12-06-2025 18:06,FinTech Innovation Sprint,Hackathon,BIO,5,"FinTech Innovation Sprint (Hackathon) was great venue, clear slides.",High,68,9,0.8519,Positive
+16-04-2025 04:20,Green Energy Futures,Seminar,AE,4,"Green Energy Futures (Seminar) was very engaging, great venue.",High,62,9,0.847,Positive
+25-03-2025 04:10,Green Energy Futures,Seminar,CSE,3,"Green Energy Futures (Seminar) was could be more interactive, slides were decent.",Medium,81,12,0.2732,Positive
+12-05-2025 21:01,Trends in 5G,Seminar,EEE,4,"Trends in 5G (Seminar) was clear slides, interactive sessions, excellent speakers.",High,82,11,0.743,Positive
+31-01-2025 04:03,Startup Funding 101,Guest Lecture,ECE,5,"Startup Funding 101 (Guest Lecture) was clear slides, great venue.",High,66,10,0.7717,Positive
+18-02-2025 19:12,Careers in Data,Seminar,MBA,4,"Careers in Data (Seminar) was clear slides, useful takeaways.",High,61,9,0.6705,Positive
+13-11-2024 18:25,Figma for Beginners,Workshop,EEE,4,"Figma for Beginners (Workshop) was inspiring, good pace, great venue.",High,69,10,0.8689,Positive
+11-08-2025 02:06,Figma for Beginners,Workshop,CE,5,"Figma for Beginners (Workshop) was clear slides, useful takeaways.",High,66,9,0.6705,Positive
+30-09-2024 19:04,Art & Craft Pop-up,Cultural Fest,CHE,5,"Art & Craft Pop-up (Cultural Fest) was good pace, inspiring.",High,60,10,0.6908,Positive
+10-08-2025 22:20,Python for Data Science,Workshop,BIO,3,"Python for Data Science (Workshop) was could be more interactive, slides were decent.",Medium,85,13,0,Neutral
+21-10-2024 20:20,Campus Problem Solver,Hackathon,CHE,4,"Campus Problem Solver (Hackathon) was very engaging, hands-on and practical, well organized.",High,92,12,0.2716,Positive
+01-10-2024 23:56,Startup Funding 101,Guest Lecture,CE,4,"Startup Funding 101 (Guest Lecture) was very engaging, learnt a lot, supportive volunteers.",High,91,13,0.5984,Positive
+16-10-2024 18:02,InnovateX Tech Expo,Tech Fest,CSE,4,"InnovateX Tech Expo (Tech Fest) was good pace, well organized, learnt a lot.",High,76,13,0.6124,Positive
+29-12-2024 17:16,The Entrepreneur’s Journey,Guest Lecture,AE,4,"The Entrepreneur’s Journey (Guest Lecture) was inspiring, excellent speakers.",High,77,9,0.7579,Positive
+06-12-2024 03:09,Design Thinking in Practice,Seminar,CSE,4,"Design Thinking in Practice (Seminar) was excellent speakers, useful takeaways.",High,79,10,0.765,Positive
+05-11-2024 04:29,Intro to Machine Learning,Workshop,MBA,3,"Intro to Machine Learning (Workshop) was okay overall, slides were decent.",Medium,74,11,0.2263,Positive
+24-12-2024 01:48,Stagecraft Theatre,Cultural Fest,MBA,5,"Stagecraft Theatre (Cultural Fest) was clear slides, useful takeaways.",High,70,9,0.6705,Positive
+28-11-2024 21:22,InnovateX Tech Expo,Tech Fest,AE,4,"InnovateX Tech Expo (Tech Fest) was clear slides, learnt a lot.",High,63,11,0.3818,Positive
+26-02-2025 04:49,Rhythm & Beats Night,Cultural Fest,ECE,4,"Rhythm & Beats Night (Cultural Fest) was clear slides, inspiring.",High,65,10,0.6597,Positive
+27-03-2025 20:44,Power BI Essentials,Workshop,ECE,5,"Power BI Essentials (Workshop) was great venue, good pace.",High,58,9,0.7906,Positive
+15-05-2025 19:43,Power BI Essentials,Workshop,ECE,4,"Power BI Essentials (Workshop) was excellent speakers, inspiring, supportive volunteers.",High,88,10,0.8271,Positive
+01-05-2025 18:36,Design Thinking in Practice,Seminar,EEE,4,"Design Thinking in Practice (Seminar) was excellent speakers, great venue.",High,74,10,0.8316,Positive
+01-06-2025 23:30,The Future of EVs,Seminar,AE,5,"The Future of EVs (Seminar) was interactive sessions, inspiring, learnt a lot.",High,78,12,0.4215,Positive
+29-08-2024 03:43,Smart City Hack,Hackathon,ECE,5,"Smart City Hack (Hackathon) was interactive sessions, great venue, very engaging.",High,81,11,0.8588,Positive
+22-10-2024 19:37,AI Ethics in Industry,Guest Lecture,IT,5,"AI Ethics in Industry (Guest Lecture) was clear slides, interactive sessions, excellent speakers.",High,97,13,0.743,Positive
+01-12-2024 22:24,Campus Problem Solver,Hackathon,ECE,5,"Campus Problem Solver (Hackathon) was excellent speakers, great venue.",High,70,9,0.7269,Positive
+12-01-2025 05:57,Fusion Music Evening,Cultural Fest,ECE,5,"Fusion Music Evening (Cultural Fest) was good pace, inspiring.",High,62,9,0.6908,Positive
+18-03-2025 00:44,Dance Mania,Cultural Fest,EEE,5,"Dance Mania (Cultural Fest) was great venue, inspiring, useful takeaways.",High,73,10,0.8689,Positive
+29-12-2024 00:43,Green Energy Futures,Seminar,BIO,3,"Green Energy Futures (Seminar) was okay overall, slides were decent.",Medium,68,10,0.4588,Positive
+26-09-2024 00:55,Cybersecurity Basics,Workshop,ME,5,"Cybersecurity Basics (Workshop) was excellent speakers, well organized.",High,71,8,0.7003,Positive
+07-07-2025 19:00,ByteBlast Coding Games,Tech Fest,IT,4,"ByteBlast Coding Games (Tech Fest) was very engaging, hands-on and practical, useful takeaways.",High,95,13,0.6801,Positive
+27-07-2025 00:43,IoT & Robotics Arena,Tech Fest,CHE,5,"IoT & Robotics Arena (Tech Fest) was inspiring, learnt a lot, hands-on and practical.",High,85,14,0.4215,Positive
+08-09-2024 00:08,Stagecraft Theatre,Cultural Fest,CHE,4,"Stagecraft Theatre (Cultural Fest) was clear slides, supportive volunteers, well organized.",High,91,11,0.7096,Positive
+06-04-2025 00:14,Campus AI Day,Tech Fest,BIO,3,"Campus AI Day (Tech Fest) was could be more interactive, topics were fine.",Medium,74,13,0.2023,Positive
+30-03-2025 19:31,ByteBlast Coding Games,Tech Fest,CHE,1,"ByteBlast Coding Games (Tech Fest) had issues with wifi, seating, too basic.",Low,76,12,0,Neutral
+01-05-2025 03:47,Space Tech & You,Guest Lecture,BIO,4,"Space Tech & You (Guest Lecture) was useful takeaways, interactive sessions.",High,76,11,0.4404,Positive
+05-06-2025 19:44,The Entrepreneur’s Journey,Guest Lecture,AE,3,"The Entrepreneur’s Journey (Guest Lecture) was topics were fine, slides were decent.",Medium,84,12,0.2023,Positive
+04-03-2025 02:55,Campus AI Day,Tech Fest,EEE,3,"Campus AI Day (Tech Fest) was topics were fine, timing was manageable.",Medium,70,12,0.2023,Positive
+20-06-2025 17:20,Careers in Data,Seminar,MBA,2,Careers in Data (Seminar) had issues with timing.,Low,49,8,0,Neutral
+04-03-2025 18:39,Careers in Data,Seminar,AE,4,"Careers in Data (Seminar) was interactive sessions, great venue.",High,64,9,0.6249,Positive
+26-07-2025 20:27,Careers in Data,Seminar,IT,3,"Careers in Data (Seminar) was could be more interactive, okay overall.",Medium,70,11,0.2911,Positive
+25-01-2025 18:33,Cybersecurity Basics,Workshop,EEE,4,"Cybersecurity Basics (Workshop) was supportive volunteers, excellent speakers.",High,78,8,0.7096,Positive
+09-06-2025 02:09,Python for Data Science,Workshop,CHE,5,"Python for Data Science (Workshop) was well organized, inspiring, good pace.",High,76,11,0.7783,Positive
+04-03-2025 02:36,FinTech Innovation Sprint,Hackathon,CSE,5,"FinTech Innovation Sprint (Hackathon) was useful takeaways, well organized, great venue.",High,88,11,0.8934,Positive
+11-02-2025 00:44,Leadership & Teams,Seminar,ECE,4,"Leadership & Teams (Seminar) was excellent speakers, interactive sessions, learnt a lot.",High,88,12,0.5719,Positive
+04-12-2024 00:52,Product Management Myths,Guest Lecture,ME,1,"Product Management Myths (Guest Lecture) had issues with wifi, audio, venue.",Low,76,11,0,Neutral
+12-06-2025 00:03,Cloud & DevOps Fair,Tech Fest,CE,4,"Cloud & DevOps Fair (Tech Fest) was hands-on and practical, well organized, supportive volunteers.",High,98,14,0.6808,Positive
+10-10-2024 02:33,Figma for Beginners,Workshop,ECE,3,"Figma for Beginners (Workshop) was room was adequate, timing was manageable.",Medium,76,11,0.2263,Positive
+01-10-2024 04:04,Trends in 5G,Seminar,AE,4,"Trends in 5G (Seminar) was good pace, learnt a lot, great venue.",High,64,12,0.7906,Positive
+29-01-2025 20:38,Leadership & Teams,Seminar,EEE,1,"Leadership & Teams (Seminar) had issues with air conditioning, too advanced.",Low,76,11,0.25,Positive
+22-11-2024 17:52,FinTech Innovation Sprint,Hackathon,AE,1,"FinTech Innovation Sprint (Hackathon) had issues with too basic, air conditioning, too advanced.",Low,96,13,0.5574,Positive
+10-12-2024 04:04,The Entrepreneur’s Journey,Guest Lecture,ME,3,"The Entrepreneur’s Journey (Guest Lecture) was timing was manageable, topics were fine.",Medium,87,12,0.2023,Positive
+16-05-2025 20:35,Space Tech & You,Guest Lecture,EEE,5,"Space Tech & You (Guest Lecture) was useful takeaways, interactive sessions, well organized.",High,92,13,0.6124,Positive
+08-08-2025 05:31,Smart City Hack,Hackathon,CE,3,"Smart City Hack (Hackathon) was average experience, room was adequate.",Medium,70,10,0.5574,Positive
+21-03-2025 22:04,Sustainability Hack Night,Hackathon,MBA,5,"Sustainability Hack Night (Hackathon) was interactive sessions, learnt a lot.",High,77,10,0,Neutral
+17-03-2025 20:19,Design Thinking in Practice,Seminar,ME,5,"Design Thinking in Practice (Seminar) was interactive sessions, useful takeaways, learnt a lot.",High,95,13,0.4404,Positive
+28-04-2025 01:39,Intro to Machine Learning,Workshop,CSE,4,"Intro to Machine Learning (Workshop) was hands-on and practical, inspiring.",High,75,10,0.4215,Positive
+05-09-2024 22:02,24hr HealthTech Hack,Hackathon,CE,4,"24hr HealthTech Hack (Hackathon) was hands-on and practical, very engaging.",High,75,10,0.4005,Positive
+28-04-2025 05:13,Design Thinking in Practice,Seminar,CHE,5,"Design Thinking in Practice (Seminar) was interactive sessions, well organized.",High,79,10,0.2732,Positive
+25-02-2025 03:54,InnovateX Tech Expo,Tech Fest,MBA,2,"InnovateX Tech Expo (Tech Fest) had issues with wifi, food, venue.",Low,66,11,0,Neutral
+05-05-2025 18:45,Campus AI Day,Tech Fest,ME,4,"Campus AI Day (Tech Fest) was excellent speakers, useful takeaways.",High,67,10,0.765,Positive
+07-10-2024 20:50,The Entrepreneur’s Journey,Guest Lecture,CHE,3,"The Entrepreneur’s Journey (Guest Lecture) was could be more interactive, topics were fine.",Medium,91,13,0.2023,Positive
+11-12-2024 19:18,FutureTech Showcase,Tech Fest,MBA,4,"FutureTech Showcase (Tech Fest) was supportive volunteers, learnt a lot, good pace.",High,83,12,0.6249,Positive
+20-09-2024 00:46,Intro to Machine Learning,Workshop,EEE,5,"Intro to Machine Learning (Workshop) was good pace, hands-on and practical, useful takeaways.",High,93,13,0.7003,Positive
+06-08-2025 20:29,Design Thinking in Practice,Seminar,ECE,4,"Design Thinking in Practice (Seminar) was clear slides, good pace, inspiring.",High,77,11,0.8074,Positive
+09-09-2024 04:54,Web Dev Bootcamp,Workshop,BIO,5,"Web Dev Bootcamp (Workshop) was hands-on and practical, well organized, useful takeaways.",High,89,12,0.6124,Positive
+06-03-2025 21:52,IoT & Robotics Arena,Tech Fest,CE,3,"IoT & Robotics Arena (Tech Fest) was could be more interactive, timing was manageable.",Medium,86,14,0,Neutral
